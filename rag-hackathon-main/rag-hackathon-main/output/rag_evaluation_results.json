@@ -1,0 +1,1581 @@
+{
+  "generated_at_utc": "2026-08-19T16:47:28.275496+00:00",
+  "embedding_model": "BAAI/bge-base-en-v1.5",
+  "reranker_model": "BAAI/bge-reranker-base",
+  "retriever_config": {
+    "search_type": "similarity",
+    "k": 5,
+    "rerank_k": 10
+  },
+  "questions": [
+    {
+      "question": "What alternative medicines to clopidogrel exist and who can prescribe them?",
+      "keywords": [
+        "prasugrel",
+        "ticagrelor",
+        "clopidogrel",
+        "specialist"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::446",
+          "dense_score": 0.7488,
+          "rerank_score": 0.9525,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17
+          ],
+          "text": "While aspirin can be used to treat most people with known coronary at preventing strokes in people who have been diagnosed with atrial fibrillation. Clopidogrel Clopidogrel is another antiplatelet medicine. It’s sometimes given alongside aspirin, but usually only for a set period of time. It’s useful for people with unstable angina, or for those who have recently had a coronary angioplasty with stenting (a procedure that helps to keep a narrowed coronary artery open). Sometimes, clopidogrel is prescribed to people who can’t tolerate aspirin. There are other medicines in the same group as clopidogrel – prasugrel and ticagrelor – that offer similar benefits . T hese need to be prescribed by a specialist. Prasugrel Prasugrel is a platelet inhibitor. This means it stops platelets clumping together and forming a blood clot. You may be given prasugrel along with aspirin, and instead of clopidogrel. Ticagrelor Ticagrelor is also a platelet inhibitor.",
+          "expanded_text": "While aspirin can be used to treat most people with known coronary at preventing strokes in people who have been diagnosed with atrial fibrillation. Clopidogrel Clopidogrel is another antiplatelet medicine. It’s sometimes given alongside aspirin, but usually only for a set period of time. It’s useful for people with unstable angina, or for those who have recently had a coronary angioplasty with stenting (a procedure that helps to keep a narrowed coronary artery open). Sometimes, clopidogrel is prescribed to people who can’t tolerate aspirin. There are other medicines in the same group as clopidogrel – prasugrel and ticagrelor – that offer similar benefits . T hese need to be prescribed by a specialist. Prasugrel Prasugrel is a platelet inhibitor. This means it stops platelets clumping together and forming a blood clot. You may be given prasugrel along with aspirin, and instead of clopidogrel. Ticagrelor Ticagrelor is also a platelet inhibitor."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::447",
+          "dense_score": 0.6537,
+          "rerank_score": 0.6058,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17,
+            18
+          ],
+          "text": "You may be given this alongside aspirin, instead of clopidogrel or prasugrel. 38 39 Antiplatelet medicines can cause stomach aches, nausea and vomiting. To help prevent these side effects, always take the medicine after a meal. More seriously, antiplatelet medicines can lead to, or worsen, bleeding from the stomach. To help prevent this, your doctor may also prescribe a medicine to reduce the acid your stomach produces. This makes it less likely that the antiplatelet medicine will cause irritation.",
+          "expanded_text": "You may be given this alongside aspirin, instead of clopidogrel or prasugrel. 38 39 Antiplatelet medicines can cause stomach aches, nausea and vomiting. To help prevent these side effects, always take the medicine after a meal. More seriously, antiplatelet medicines can lead to, or worsen, bleeding from the stomach. To help prevent this, your doctor may also prescribe a medicine to reduce the acid your stomach produces. This makes it less likely that the antiplatelet medicine will cause irritation."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::444",
+          "dense_score": 0.7019,
+          "rerank_score": 0.2774,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            16,
+            17
+          ],
+          "text": "I’ve felt much better since and haven’t had another spasm. Taking the right amount of medicine – as well as eating healthy, stopping smoking and reducing my stress – has helped me feel better, both emotionally and physically.” 36 37 Antiplatelet medicines Examples of antiplatelet medicine include aspirin, clopidogrel, prasugrel and ticagrelor. Antiplatelet medicines reduce the risk of clots forming. Aspirin Aspirin helps to prevent the blood from clotting.",
+          "expanded_text": "I’ve felt much better since and haven’t had another spasm. Taking the right amount of medicine – as well as eating healthy, stopping smoking and reducing my stress – has helped me feel better, both emotionally and physically.” 36 37 Antiplatelet medicines Examples of antiplatelet medicine include aspirin, clopidogrel, prasugrel and ticagrelor. Antiplatelet medicines reduce the risk of clots forming. Aspirin Aspirin helps to prevent the blood from clotting."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::432",
+          "dense_score": 0.6393,
+          "rerank_score": 0.0529,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            10,
+            11
+          ],
+          "text": "I live life secure in the knowledge that my on without worrying about it on a day to day basis.” 24 25 Anticoagulant medicines Examples of anticoagulant medicines include warfarin and apixaban. Blood clots are made up of platelets – tiny blood cells clumped together – and a protein called fibrin. If a clot isn’t treated, it can travel to the brain and cause a stroke, or to the lung and block a main artery (pulmonary embolism). Anticoagulants prevent harmful blood clots from forming. They’re most commonly prescribed to as atrial fibrillation, or for those who have an artificial increase the risk of having a stroke. Anticoagulants are particularly valuable for treating clots that have already formed, such as those that develop in the veins of the legs (deep vein thrombosis, or DVT). Warfarin Warfarin is the most common oral anticoagulant prescribed for long-term prevention of blood clotting.",
+          "expanded_text": "I live life secure in the knowledge that my on without worrying about it on a day to day basis.” 24 25 Anticoagulant medicines Examples of anticoagulant medicines include warfarin and apixaban. Blood clots are made up of platelets – tiny blood cells clumped together – and a protein called fibrin. If a clot isn’t treated, it can travel to the brain and cause a stroke, or to the lung and block a main artery (pulmonary embolism). Anticoagulants prevent harmful blood clots from forming. They’re most commonly prescribed to as atrial fibrillation, or for those who have an artificial increase the risk of having a stroke. Anticoagulants are particularly valuable for treating clots that have already formed, such as those that develop in the veins of the legs (deep vein thrombosis, or DVT). Warfarin Warfarin is the most common oral anticoagulant prescribed for long-term prevention of blood clotting."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "cureus-0016-00000054264.pdf:Risk factors:377",
+          "dense_score": 0.6525,
+          "rerank_score": 0.0084,
+          "source_file": "cureus-0016-00000054264.pdf",
+          "section_title": "Risk factors",
+          "page_numbers": [
+            9
+          ],
+          "text": "This could be partly due to significantly lower levels of coronary artery calcium in women . Prescription of Medicines to Women Six medicines/medicine classes were reported: antihypertensive, antiplatelets (including aspirin), betablockers and lipid-lowering agents (including statins), oral anticoagulants, and unspecified antianginal drugs (Table ).",
+          "expanded_text": "This could be partly due to significantly lower levels of coronary artery calcium in women . Prescription of Medicines to Women Six medicines/medicine classes were reported: antihypertensive, antiplatelets (including aspirin), betablockers and lipid-lowering agents (including statins), oral anticoagulants, and unspecified antianginal drugs (Table )."
+        }
+      ]
+    },
+    {
+      "question": "How does prasugrel work as an antiplatelet medicine?",
+      "keywords": [
+        "prasugrel",
+        "platelet inhibitor",
+        "clumping",
+        "blood clot"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::446",
+          "dense_score": 0.7747,
+          "rerank_score": 0.8995,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17
+          ],
+          "text": "While aspirin can be used to treat most people with known coronary at preventing strokes in people who have been diagnosed with atrial fibrillation. Clopidogrel Clopidogrel is another antiplatelet medicine. It’s sometimes given alongside aspirin, but usually only for a set period of time. It’s useful for people with unstable angina, or for those who have recently had a coronary angioplasty with stenting (a procedure that helps to keep a narrowed coronary artery open). Sometimes, clopidogrel is prescribed to people who can’t tolerate aspirin. There are other medicines in the same group as clopidogrel – prasugrel and ticagrelor – that offer similar benefits . T hese need to be prescribed by a specialist. Prasugrel Prasugrel is a platelet inhibitor. This means it stops platelets clumping together and forming a blood clot. You may be given prasugrel along with aspirin, and instead of clopidogrel. Ticagrelor Ticagrelor is also a platelet inhibitor.",
+          "expanded_text": "While aspirin can be used to treat most people with known coronary at preventing strokes in people who have been diagnosed with atrial fibrillation. Clopidogrel Clopidogrel is another antiplatelet medicine. It’s sometimes given alongside aspirin, but usually only for a set period of time. It’s useful for people with unstable angina, or for those who have recently had a coronary angioplasty with stenting (a procedure that helps to keep a narrowed coronary artery open). Sometimes, clopidogrel is prescribed to people who can’t tolerate aspirin. There are other medicines in the same group as clopidogrel – prasugrel and ticagrelor – that offer similar benefits . T hese need to be prescribed by a specialist. Prasugrel Prasugrel is a platelet inhibitor. This means it stops platelets clumping together and forming a blood clot. You may be given prasugrel along with aspirin, and instead of clopidogrel. Ticagrelor Ticagrelor is also a platelet inhibitor."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::444",
+          "dense_score": 0.7347,
+          "rerank_score": 0.7503,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            16,
+            17
+          ],
+          "text": "I’ve felt much better since and haven’t had another spasm. Taking the right amount of medicine – as well as eating healthy, stopping smoking and reducing my stress – has helped me feel better, both emotionally and physically.” 36 37 Antiplatelet medicines Examples of antiplatelet medicine include aspirin, clopidogrel, prasugrel and ticagrelor. Antiplatelet medicines reduce the risk of clots forming. Aspirin Aspirin helps to prevent the blood from clotting.",
+          "expanded_text": "I’ve felt much better since and haven’t had another spasm. Taking the right amount of medicine – as well as eating healthy, stopping smoking and reducing my stress – has helped me feel better, both emotionally and physically.” 36 37 Antiplatelet medicines Examples of antiplatelet medicine include aspirin, clopidogrel, prasugrel and ticagrelor. Antiplatelet medicines reduce the risk of clots forming. Aspirin Aspirin helps to prevent the blood from clotting."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::447",
+          "dense_score": 0.7459,
+          "rerank_score": 0.5104,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17,
+            18
+          ],
+          "text": "You may be given this alongside aspirin, instead of clopidogrel or prasugrel. 38 39 Antiplatelet medicines can cause stomach aches, nausea and vomiting. To help prevent these side effects, always take the medicine after a meal. More seriously, antiplatelet medicines can lead to, or worsen, bleeding from the stomach. To help prevent this, your doctor may also prescribe a medicine to reduce the acid your stomach produces. This makes it less likely that the antiplatelet medicine will cause irritation.",
+          "expanded_text": "You may be given this alongside aspirin, instead of clopidogrel or prasugrel. 38 39 Antiplatelet medicines can cause stomach aches, nausea and vomiting. To help prevent these side effects, always take the medicine after a meal. More seriously, antiplatelet medicines can lead to, or worsen, bleeding from the stomach. To help prevent this, your doctor may also prescribe a medicine to reduce the acid your stomach produces. This makes it less likely that the antiplatelet medicine will cause irritation."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::445",
+          "dense_score": 0.6995,
+          "rerank_score": 0.1109,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17
+          ],
+          "text": "It achieves this by reducing the ‘stickiness’ of platelets – the small blood cells that can clump together t o f orm a clot. You’ll need to take a smaller dose for this effect than you’d need to relieve a headache. Aspirin is also useful for people with angina, and helps to prevent blood clotting in the grafts used in coronary artery bypass surgery.",
+          "expanded_text": "It achieves this by reducing the ‘stickiness’ of platelets – the small blood cells that can clump together t o f orm a clot. You’ll need to take a smaller dose for this effect than you’d need to relieve a headache. Aspirin is also useful for people with angina, and helps to prevent blood clotting in the grafts used in coronary artery bypass surgery."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "cureus-0016-00000054264.pdf:Risk factors:378",
+          "dense_score": 0.6794,
+          "rerank_score": 0.0226,
+          "source_file": "cureus-0016-00000054264.pdf",
+          "section_title": "Risk factors",
+          "page_numbers": [
+            9
+          ],
+          "text": "It is noteworthy to mention that aspirin was often reported separately from the remaining antiplatelets, and statins were reported separately in studies from the remaining lipid-lowering agents. Prescribed Medication(s) Antiplatelet (%) Aspirin (%) Lipid-lowering agents (%) Statin (%) β-Blocker (%) Oral anticoagulant Antihypertensive Men Women Men Women Men Women Men Women Men Women Men Women Men Women 84* 76* 81* 73* 53* 47* 51* 45* - - - - 57.4* 53.4* 7.9 7.6 69.1 67.5 69.1 67.5 78.1* 80.2* 7.9 7.6 78.1 80.2 46.02* 32.08* 46.02* 32.08* - - 79.4* 61.2* 52.3* 41.1* - - 34.8 30.1 Leening et al., 2018 - - - - - - 8.2 9.9 26.5 - - 26.5 Mariani et al., 2013 71.9 64.6 95.1 94.3 - - 89.6* 84.7* 86.8* 81.2* - - 9.8 12.4 Millett et al., 2018 - - - - 14.2 8.8 - - - - - - 15.6 12.3 Nørgaard et al., 2015 - - - - 35.9 32.3 - - - - - - 37.7 Peters et al., 2018 61.7* 54.5* - - 10.7* 9.2* 14* 12* 81.2 79.5 - - - - Rachamin et al.,",
+          "expanded_text": "It is noteworthy to mention that aspirin was often reported separately from the remaining antiplatelets, and statins were reported separately in studies from the remaining lipid-lowering agents. Prescribed Medication(s) Antiplatelet (%) Aspirin (%) Lipid-lowering agents (%) Statin (%) β-Blocker (%) Oral anticoagulant Antihypertensive Men Women Men Women Men Women Men Women Men Women Men Women Men Women 84* 76* 81* 73* 53* 47* 51* 45* - - - - 57.4* 53.4* 7.9 7.6 69.1 67.5 69.1 67.5 78.1* 80.2* 7.9 7.6 78.1 80.2 46.02* 32.08* 46.02* 32.08* - - 79.4* 61.2* 52.3* 41.1* - - 34.8 30.1 Leening et al., 2018 - - - - - - 8.2 9.9 26.5 - - 26.5 Mariani et al., 2013 71.9 64.6 95.1 94.3 - - 89.6* 84.7* 86.8* 81.2* - - 9.8 12.4 Millett et al., 2018 - - - - 14.2 8.8 - - - - - - 15.6 12.3 Nørgaard et al., 2015 - - - - 35.9 32.3 - - - - - - 37.7 Peters et al., 2018 61.7* 54.5* - - 10.7* 9.2* 14* 12* 81.2 79.5 - - - - Rachamin et al.,"
+        }
+      ]
+    },
+    {
+      "question": "What should you do if you need to stop taking beta-blockers?",
+      "keywords": [
+        "beta-blockers",
+        "stop",
+        "medical advice",
+        "calcium channel blockers"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::449",
+          "dense_score": 0.8125,
+          "rerank_score": 0.9989,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            18,
+            19,
+            20
+          ],
+          "text": "We now know that, for healthy people, the side effects from taking antiplatelet medicines outweigh the potential benefits. 42 43 Information You should not stop taking beta-blockers suddenly without getting medical advice, as coming off them too quickly could make your condition worse. If you do need to stop taking the medicines, your doctor, pharmacist or nurse may want to reduce the dose gradually. For more information on beta-blockers, visit bhf.org.uk/medicinecabinet Minor side effects include tiredness or even exhaustion, cold hands and feet, erectile dysfunction (impotence), dizziness, disturbed sleep and nightmares. But these will lessen with time. beats: the higher the dose, the more they reduce your may beat too slowly, which may make you feel dizzy or faint. If this happens, your doctor may lower the the symptoms will disappear. Don’t stop taking beta-blockers suddenly without getting medical advice. 44 45 Calcium channel blockers Examples of calcium channel blockers include amlodipine and diltiazem.",
+          "expanded_text": "We now know that, for healthy people, the side effects from taking antiplatelet medicines outweigh the potential benefits. 42 43 Information You should not stop taking beta-blockers suddenly without getting medical advice, as coming off them too quickly could make your condition worse. If you do need to stop taking the medicines, your doctor, pharmacist or nurse may want to reduce the dose gradually. For more information on beta-blockers, visit bhf.org.uk/medicinecabinet Minor side effects include tiredness or even exhaustion, cold hands and feet, erectile dysfunction (impotence), dizziness, disturbed sleep and nightmares. But these will lessen with time. beats: the higher the dose, the more they reduce your may beat too slowly, which may make you feel dizzy or faint. If this happens, your doctor may lower the the symptoms will disappear. Don’t stop taking beta-blockers suddenly without getting medical advice. 44 45 Calcium channel blockers Examples of calcium channel blockers include amlodipine and diltiazem."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Drug interactions ::304",
+          "dense_score": 0.6909,
+          "rerank_score": 0.304,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Drug interactions :",
+          "page_numbers": [
+            209
+          ],
+          "text": "2. After initial stabilization, long-term use of beta blockers (carvedilol, metoprolol) has been shown to improve survival in patients with HF due to left ventricular systolic dysfunction . ▪ Beta blockade decreases myocardial work and oxygen demand by slowing the ventricular rate and reducing contractility.",
+          "expanded_text": "2. After initial stabilization, long-term use of beta blockers (carvedilol, metoprolol) has been shown to improve survival in patients with HF (heart failure) due to left ventricular systolic dysfunction . ▪ Beta blockade decreases myocardial work and oxygen demand by slowing the ventricular rate and reducing contractility."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Cautions in use ::272",
+          "dense_score": 0.6849,
+          "rerank_score": 0.2305,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Cautions in use :",
+          "page_numbers": [
+            192
+          ],
+          "text": "- Asthma. - Vasospastic disorders (prinzemtal angina). - Diabetics (alteration of glycemia and masking of tachycardia due to hypoglycemic events). ▪ Beta blockers are useful for treating hypertensive patients with comorbid conditions such as migraine, essential tremor, angina pectoris/prior myocardial infarction, and atrial fibrillation.",
+          "expanded_text": "- Asthma. - Vasospastic disorders (prinzemtal angina). - Diabetics (alteration of glycemia and masking of tachycardia due to hypoglycemic events). ▪ Beta blockers are useful for treating hypertensive patients with comorbid conditions such as migraine, essential tremor, angina pectoris/prior myocardial infarction, and atrial fibrillation."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::429",
+          "dense_score": 0.6771,
+          "rerank_score": 0.0582,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            8
+          ],
+          "text": "Your doctor may prescribe this medicine for you instead of an ACE inhibitor or an ARB if: • You still have symptoms despite already receivin g m edical treatment, such as taking an ACE inhibitor or an ARB, and a round your body. It’s important that you leave a minimum of 36 hours between stopping your ACE inhibitor and starting your ARNI. Like an ACE inhibitor, an ARNI may cause a fall in blood pressure when you first start taking it. A lower starting dose may be recommended if your blood pressure is already on the low side. It is very important that your kidneys are checked with a routine blood test, around one week after starting this medicine or after increasing the dose. It is uncommon for an ARNI to cause a serious allergic reaction that shows as swelling around the mouth or face. If this does happen, you must get medical attention straight away, and dial 999.",
+          "expanded_text": "Your doctor may prescribe this medicine for you instead of an ACE inhibitor or an ARB (angiotensin receptor blocker) if: • You still have symptoms despite already receivin g m edical treatment, such as taking an ACE inhibitor or an ARB, (angiotensin receptor blocker) and a round your body. It’s important that you leave a minimum of 36 hours between stopping your ACE inhibitor and starting your ARNI. Like an ACE inhibitor, an ARNI may cause a fall in blood pressure when you first start taking it. A lower starting dose may be recommended if your blood pressure is already on the low side. It is very important that your kidneys are checked with a routine blood test, around one week after starting this medicine or after increasing the dose. It is uncommon for an ARNI to cause a serious allergic reaction that shows as swelling around the mouth or face. If this does happen, you must get medical attention straight away, and dial 999."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::443",
+          "dense_score": 0.6884,
+          "rerank_score": 0.0019,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            16
+          ],
+          "text": "After a series of tests, I was told I had a coronary artery spasm, which causes angina-like symptoms. My doctor put me on beta-blockers and advised that I attend cardiac rehabilitation. I was frightened, but the classes helped me gain back my confidence. Three months later, I suffered another coronary artery spasm. The doctor told me my beta-blockers were too strong, so he lowered my dose.",
+          "expanded_text": "After a series of tests, I was told I had a coronary artery spasm, which causes angina-like symptoms. My doctor put me on beta-blockers and advised that I attend cardiac rehabilitation. I was frightened, but the classes helped me gain back my confidence. Three months later, I suffered another coronary artery spasm. The doctor told me my beta-blockers were too strong, so he lowered my dose."
+        }
+      ]
+    },
+    {
+      "question": "What is the funny current (If) and what role does it play in phase 4 of the cardiac action potential?",
+      "keywords": [
+        "funny current",
+        "phase 4",
+        "diastolic depolarization",
+        "SA node"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::113",
+          "dense_score": 0.692,
+          "rerank_score": 0.8262,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            84,
+            85
+          ],
+          "text": "- During this period, a second action potential cannot be generated , no matter how strong the stimulus. - It begins at threshold and continues until the cell has almost completely repolarized. ▪ Occurs in the SA and AV nodes. ▪ Key differences from the ventricular action potential include: A. Phase 0: - Upstroke. potential of these cells. Pacemaker action potential - Results in a slow conduction velocity that is used by the AV node to prolong transmission from the atria to ventricles. - Phase 0 of the non-pacemaker action potential is mediated by rapid sodium influx, in contrast to the slower calcium-mediated depolarization of pacemaker cells. B. Phases 1 and 2 are absent. C. Phase 3: - Inactivation of the Ca channels and ↑ activation of K channels → ↑ K efflux. D. Phase 4: - Slow spontaneous diastolic depolarization due to If (funny current). - If channels responsible for a slow, mixed Na/K inward current; different from INa in phase 0 of ventricular action potential.",
+          "expanded_text": "- During this period, a second action potential cannot be generated , no matter how strong the stimulus. - It begins at threshold and continues until the cell has almost completely repolarized. ▪ Occurs in the SA and AV nodes. ▪ Key differences from the ventricular action potential include: A. Phase 0: - Upstroke. potential of these cells. Pacemaker action potential - Results in a slow conduction velocity that is used by the AV node to prolong transmission from the atria to ventricles. - Phase 0 of the non-pacemaker action potential is mediated by rapid sodium influx, in contrast to the slower calcium-mediated depolarization of pacemaker cells. B. Phases 1 and 2 are absent. C. Phase 3: - Inactivation of the Ca channels and ↑ activation of K channels → ↑ K efflux. D. Phase 4: - Slow spontaneous diastolic depolarization due to If (funny current). - If channels responsible for a slow, mixed Na/K inward current; different from INa in phase 0 of ventricular action potential."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::118",
+          "dense_score": 0.6707,
+          "rerank_score": 0.6086,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            87,
+            88
+          ],
+          "text": "3. Adenosine and acetylcholine affect phase 4 of the action potential, reducing the rate of spontaneous depolarization in cardiac pacemaker cells. ▪ Adenosine interacts with receptors on the surface of cardiac cells, activating potassium channels and increasing potassium conductance, causing the membrane potential to remain negative for a longer period. ▪ Adenosine also inhibits L-type Ca channels, further prolonging the depolarization time. ▪ These actions result in a transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. ▪ That's why adenosine is useful in the termination of paroxysmal supraventricular tachycardia. ▪ Acetylcholine behaves similarly by increasing outward K conductance while decreasing inward Ca and Na currents during phase 4. ▪ Cardiac cells, in their resting state, are electrically polarized; their insides are negatively charged with respect to their outsides.",
+          "expanded_text": "3. Adenosine and acetylcholine affect phase 4 of the action potential, reducing the rate of spontaneous depolarization in cardiac pacemaker cells. ▪ Adenosine interacts with receptors on the surface of cardiac cells, activating potassium channels and increasing potassium conductance, causing the membrane potential to remain negative for a longer period. ▪ Adenosine also inhibits L-type Ca channels, further prolonging the depolarization time. ▪ These actions result in a transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. ▪ That's why adenosine is useful in the termination of paroxysmal supraventricular tachycardia. ▪ Acetylcholine behaves similarly by increasing outward K conductance while decreasing inward Ca and Na currents during phase 4. ▪ Cardiac cells, in their resting state, are electrically polarized; their insides are negatively charged with respect to their outsides."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::116",
+          "dense_score": 0.7152,
+          "rerank_score": 0.2992,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            86
+          ],
+          "text": "2. The below tracing demonstrates the typical action potential of cardiac pacemaker cells, which are ▪ These tissues undergo diastolic depolarization during phase 4 due to a slow, inward sodium current. ▪ During the latter parts of phase 4, diastolic depolarization is augmented by transient inward calcium currents.",
+          "expanded_text": "2. The below tracing demonstrates the typical action potential of cardiac pacemaker cells, which are ▪ These tissues undergo diastolic depolarization during phase 4 due to a slow, inward sodium current. ▪ During the latter parts of phase 4, diastolic depolarization is augmented by transient inward calcium currents."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::123",
+          "dense_score": 0.6522,
+          "rerank_score": 0.004,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            90,
+            91
+          ],
+          "text": "- This clever electrical wiring of the heart permits the atria to empty their volume of blood completely into the ventricles before the ventricles contract. - Like the sinus node, the AV node is also under the influence of the autonomic nervous system. - Vagal stimulation slows the current even further, whereas sympathetic stimulation accelerates the current. C. Ventricular Depolarization: - The depolarizing wave escapes the AV node and is swept rapidly down the ventricles along specialized electrical conducting cells. - This ventricular conducting system has a complex anatomy but essentially consists of three parts: 1. Bundle of His. 2. Bundle branches. 3. Terminal Purkinje fibers. - The bundle of His emerges from the AV node and almost immediately divides into right and left bundle branches. - The right bundle branch and the left bundle branch terminate in countless tiny Purkinje fibers. These fibers deliver the electrical current into the ventricular myocardium. - Ventricular myocardial depolarization causes ventricular contraction. It is marked by a large deflection on the EKG called the QRS complex. - The amplitude of the QRS complex is much greater than that of the atrial P wave because the ventricles have so much more muscle mass than do the atria. - The QRS complex consists of several distinct waves, each of which has a name. - Because the precise configuration of the QRS complex can vary so greatly, a standard format for naming each component has been devised: 1. If the first deflection is downward, it is called a Q wave. 2. The first upward deflection is called an R wave. 3. If there is a second upward deflection, it is called R′ (“R-prime”). 4.",
+          "expanded_text": "- This clever electrical wiring of the heart permits the atria to empty their volume of blood completely into the ventricles before the ventricles contract. - Like the sinus node, the AV node is also under the influence of the autonomic nervous system. - Vagal stimulation slows the current even further, whereas sympathetic stimulation accelerates the current. C. Ventricular Depolarization: - The depolarizing wave escapes the AV node and is swept rapidly down the ventricles along specialized electrical conducting cells. - This ventricular conducting system has a complex anatomy but essentially consists of three parts: 1. Bundle of His. 2. Bundle branches. 3. Terminal Purkinje fibers. - The bundle of His emerges from the AV node and almost immediately divides into right and left bundle branches. - The right bundle branch and the left bundle branch terminate in countless tiny Purkinje fibers. These fibers deliver the electrical current into the ventricular myocardium. - Ventricular myocardial depolarization causes ventricular contraction. It is marked by a large deflection on the EKG called the QRS complex. - The amplitude of the QRS complex is much greater than that of the atrial P wave because the ventricles have so much more muscle mass than do the atria. - The QRS complex consists of several distinct waves, each of which has a name. - Because the precise configuration of the QRS complex can vary so greatly, a standard format for naming each component has been devised: 1. If the first deflection is downward, it is called a Q wave. 2. The first upward deflection is called an R wave. 3. If there is a second upward deflection, it is called R′ (“R-prime”). 4."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::130",
+          "dense_score": 0.6571,
+          "rerank_score": 0.0002,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            93
+          ],
+          "text": "The wave of depolarization then spreads along the ventricular conducting system (bundle of His, bundle branches, and Purkinje fibers) and out into the ventricular myocardium. The first part of the ventricles to be depolarized is the interventricular septum. Ventricular depolarization generates the QRS complex. 5. The T wave records ventricular repolarization. Atrial repolarization is not seen. 6. U wave: prominent in hypokalemia (think hyp“U”kalemia), bradycardia.",
+          "expanded_text": "The wave of depolarization then spreads along the ventricular conducting system (bundle of His, bundle branches, and Purkinje fibers) and out into the ventricular myocardium. The first part of the ventricles to be depolarized is the interventricular septum. Ventricular depolarization generates the QRS complex. 5. The T wave records ventricular repolarization. Atrial repolarization is not seen. 6. U wave: prominent in hypokalemia (think hyp“U”kalemia), bradycardia."
+        }
+      ]
+    },
+    {
+      "question": "How do acetylcholine and catecholamines affect heart rate through the SA node?",
+      "keywords": [
+        "acetylcholine",
+        "catecholamines",
+        "SA node",
+        "heart rate",
+        "depolarization"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::114",
+          "dense_score": 0.7513,
+          "rerank_score": 0.9057,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            85
+          ],
+          "text": "- T-type (transient) Ca channels then open once the membrane potential becomes more positive, allowing Ca influx to contribute to depolarization. As the pacemaker cell approaches threshold, L-type (long-lasting) Ca channels begin to open, which further increases Ca influx. - Accounts for automaticity of SA and AV nodes. - The slope of phase 4 in the SA node determines HR. - ACh/adenosine ↓ the rate of diastolic depolarization and ↓ HR, while ↑ catecholamines ↑ depolarization and ↑ HR. Sympathetic stimulation ↑ the chance that If channels are open and thus ↑ HR.",
+          "expanded_text": "- T-type (transient) Ca channels then open once the membrane potential becomes more positive, allowing Ca influx to contribute to depolarization. As the pacemaker cell approaches threshold, L-type (long-lasting) Ca channels begin to open, which further increases Ca influx. - Accounts for automaticity of SA and AV nodes. - The slope of phase 4 in the SA node determines HR. (heart rate) - ACh/adenosine ↓ the rate of diastolic depolarization and ↓ HR, (heart rate) while ↑ catecholamines ↑ depolarization and ↑ HR. (heart rate) Sympathetic stimulation ↑ the chance that If channels are open and thus ↑ HR. (heart rate)"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ AV node::108",
+          "dense_score": 0.7629,
+          "rerank_score": 0.4665,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ AV node:",
+          "page_numbers": [
+            81,
+            82
+          ],
+          "text": "The SA node cells have the property of automaticity, or pacemaker activity. Cardiac conduction system ▪ SA node depolarization delivers an electrical impulse to the surrounding atrial myocardium, which carries the action potential to the atrioventricular (AV) node. ▪ The action potential is then delayed by the AV node in order to allow the ventricles to completely fill with blood during diastole. ▪ From the AV node, the action potential enters the His-Purkinje system. ▪ Impulses travel rapidly through the Purkinje fibers.",
+          "expanded_text": "The SA node cells have the property of automaticity, or pacemaker activity. Cardiac conduction system ▪ SA node depolarization delivers an electrical impulse to the surrounding atrial myocardium, which carries the action potential to the atrioventricular (AV) node. ▪ The action potential is then delayed by the AV node in order to allow the ventricles to completely fill with blood during diastole. ▪ From the AV node, the action potential enters the His-Purkinje system. ▪ Impulses travel rapidly through the Purkinje fibers."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::118",
+          "dense_score": 0.7229,
+          "rerank_score": 0.2125,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            87,
+            88
+          ],
+          "text": "3. Adenosine and acetylcholine affect phase 4 of the action potential, reducing the rate of spontaneous depolarization in cardiac pacemaker cells. ▪ Adenosine interacts with receptors on the surface of cardiac cells, activating potassium channels and increasing potassium conductance, causing the membrane potential to remain negative for a longer period. ▪ Adenosine also inhibits L-type Ca channels, further prolonging the depolarization time. ▪ These actions result in a transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. ▪ That's why adenosine is useful in the termination of paroxysmal supraventricular tachycardia. ▪ Acetylcholine behaves similarly by increasing outward K conductance while decreasing inward Ca and Na currents during phase 4. ▪ Cardiac cells, in their resting state, are electrically polarized; their insides are negatively charged with respect to their outsides.",
+          "expanded_text": "3. Adenosine and acetylcholine affect phase 4 of the action potential, reducing the rate of spontaneous depolarization in cardiac pacemaker cells. ▪ Adenosine interacts with receptors on the surface of cardiac cells, activating potassium channels and increasing potassium conductance, causing the membrane potential to remain negative for a longer period. ▪ Adenosine also inhibits L-type Ca channels, further prolonging the depolarization time. ▪ These actions result in a transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. ▪ That's why adenosine is useful in the termination of paroxysmal supraventricular tachycardia. ▪ Acetylcholine behaves similarly by increasing outward K conductance while decreasing inward Ca and Na currents during phase 4. ▪ Cardiac cells, in their resting state, are electrically polarized; their insides are negatively charged with respect to their outsides."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ AV node::107",
+          "dense_score": 0.6951,
+          "rerank_score": 0.1381,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ AV node:",
+          "page_numbers": [
+            81
+          ],
+          "text": "AV nodal cells can become pacemakers when conduction between the SA and AV nodes is impaired. ▪ This can occur in complete (third-degree) atrioventricular (AV) block, in which SA node impulses cause atrial contraction while impulses generated by the AV node cause ventricular contraction. ▪ Normally, cardiac impulses originate in the sinoatrial (SA) node.",
+          "expanded_text": "AV nodal cells can become pacemakers when conduction between the SA and AV nodes is impaired. ▪ This can occur in complete (third-degree) atrioventricular (AV) block, in which SA node impulses cause atrial contraction while impulses generated by the AV node cause ventricular contraction. ▪ Normally, cardiac impulses originate in the sinoatrial (SA) node."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Baroreceptors::97",
+          "dense_score": 0.7176,
+          "rerank_score": 0.0028,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Baroreceptors:",
+          "page_numbers": [
+            76
+          ],
+          "text": "- Aortic arch transmits via vagus nerve to solitary nucleus of medulla (responds to ↑ and ↓ in BP). - Carotid sinus (dilated region at carotid bifurcation) transmits via glossopharyngeal nerve to solitary nucleus of medulla (responds to ↓ and ↑ in BP). Nervous reflexes in the control of blood pressure",
+          "expanded_text": "- Aortic arch transmits via vagus nerve to solitary nucleus of medulla (responds to ↑ and ↓ in BP). (blood pressure) - Carotid sinus (dilated region at carotid bifurcation) transmits via glossopharyngeal nerve to solitary nucleus of medulla (responds to ↓ and ↑ in BP). (blood pressure) Nervous reflexes in the control of blood pressure"
+        }
+      ]
+    },
+    {
+      "question": "What is cardiac cell depolarization and how does it occur in pacemaker cells?",
+      "keywords": [
+        "depolarization",
+        "pacemaker cells",
+        "spontaneously",
+        "polarized"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::119",
+          "dense_score": 0.8179,
+          "rerank_score": 0.9933,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            88,
+            89
+          ],
+          "text": "▪ This electrical polarity is maintained by membrane pumps that ensure the appropriate distribution of ions (primarily potassium, sodium) necessary to keep the insides of these cells relatively electronegative. ▪ These ions pass into and out of the cell through special ion channels in the cell membrane. ▪ Cardiac cells can lose their internal negativity in a process called depolarization. ▪ In some cells, known as pacemaker cells, it occurs spontaneously. In others, it is initiated by the arrival of an electrical impulse that causes positively charged ions to cross the cell membrane. ▪ Depolarization is propagated from cell to cell, producing a wave of depolarization that can be Electrocardiography ▪ This wave of depolarization represents a flow of electricity, an electrical current, that can be detected by electrodes placed on the surface of the body. ▪ After depolarization is complete, the cardiac cells restore their resting polarity through a process called repolarization. ▪ After depolarization is complete, the cardiac cells restore their resting polarity through a process called repolarization. ▪ Repolarization is accomplished by the membrane pumps, which reverse the flow of ions. This process can also be detected by recording electrodes.",
+          "expanded_text": "▪ This electrical polarity is maintained by membrane pumps that ensure the appropriate distribution of ions (primarily potassium, sodium) necessary to keep the insides of these cells relatively electronegative. ▪ These ions pass into and out of the cell through special ion channels in the cell membrane. ▪ Cardiac cells can lose their internal negativity in a process called depolarization. ▪ In some cells, known as pacemaker cells, it occurs spontaneously. In others, it is initiated by the arrival of an electrical impulse that causes positively charged ions to cross the cell membrane. ▪ Depolarization is propagated from cell to cell, producing a wave of depolarization that can be Electrocardiography ▪ This wave of depolarization represents a flow of electricity, an electrical current, that can be detected by electrodes placed on the surface of the body. ▪ After depolarization is complete, the cardiac cells restore their resting polarity through a process called repolarization. ▪ After depolarization is complete, the cardiac cells restore their resting polarity through a process called repolarization. ▪ Repolarization is accomplished by the membrane pumps, which reverse the flow of ions. This process can also be detected by recording electrodes."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ AV node::108",
+          "dense_score": 0.7661,
+          "rerank_score": 0.9149,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ AV node:",
+          "page_numbers": [
+            81,
+            82
+          ],
+          "text": "The SA node cells have the property of automaticity, or pacemaker activity. Cardiac conduction system ▪ SA node depolarization delivers an electrical impulse to the surrounding atrial myocardium, which carries the action potential to the atrioventricular (AV) node. ▪ The action potential is then delayed by the AV node in order to allow the ventricles to completely fill with blood during diastole. ▪ From the AV node, the action potential enters the His-Purkinje system. ▪ Impulses travel rapidly through the Purkinje fibers.",
+          "expanded_text": "The SA node cells have the property of automaticity, or pacemaker activity. Cardiac conduction system ▪ SA node depolarization delivers an electrical impulse to the surrounding atrial myocardium, which carries the action potential to the atrioventricular (AV) node. ▪ The action potential is then delayed by the AV node in order to allow the ventricles to completely fill with blood during diastole. ▪ From the AV node, the action potential enters the His-Purkinje system. ▪ Impulses travel rapidly through the Purkinje fibers."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::116",
+          "dense_score": 0.8551,
+          "rerank_score": 0.9018,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            86
+          ],
+          "text": "2. The below tracing demonstrates the typical action potential of cardiac pacemaker cells, which are ▪ These tissues undergo diastolic depolarization during phase 4 due to a slow, inward sodium current. ▪ During the latter parts of phase 4, diastolic depolarization is augmented by transient inward calcium currents.",
+          "expanded_text": "2. The below tracing demonstrates the typical action potential of cardiac pacemaker cells, which are ▪ These tissues undergo diastolic depolarization during phase 4 due to a slow, inward sodium current. ▪ During the latter parts of phase 4, diastolic depolarization is augmented by transient inward calcium currents."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::126",
+          "dense_score": 0.7691,
+          "rerank_score": 0.725,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            92
+          ],
+          "text": "Repolarization: - After myocardial cells depolarize, they pass through a brief refractory period during which they are resistant to further stimulation. - They then repolarize; that is, they restore the electronegativity of their interiors so that they can be restimulated. - Just as there is a wave of depolarization, there is also a wave of repolarization.",
+          "expanded_text": "Repolarization: - After myocardial cells depolarize, they pass through a brief refractory period during which they are resistant to further stimulation. - They then repolarize; that is, they restore the electronegativity of their interiors so that they can be restimulated. - Just as there is a wave of depolarization, there is also a wave of repolarization."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::118",
+          "dense_score": 0.7768,
+          "rerank_score": 0.5291,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            87,
+            88
+          ],
+          "text": "3. Adenosine and acetylcholine affect phase 4 of the action potential, reducing the rate of spontaneous depolarization in cardiac pacemaker cells. ▪ Adenosine interacts with receptors on the surface of cardiac cells, activating potassium channels and increasing potassium conductance, causing the membrane potential to remain negative for a longer period. ▪ Adenosine also inhibits L-type Ca channels, further prolonging the depolarization time. ▪ These actions result in a transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. ▪ That's why adenosine is useful in the termination of paroxysmal supraventricular tachycardia. ▪ Acetylcholine behaves similarly by increasing outward K conductance while decreasing inward Ca and Na currents during phase 4. ▪ Cardiac cells, in their resting state, are electrically polarized; their insides are negatively charged with respect to their outsides.",
+          "expanded_text": "3. Adenosine and acetylcholine affect phase 4 of the action potential, reducing the rate of spontaneous depolarization in cardiac pacemaker cells. ▪ Adenosine interacts with receptors on the surface of cardiac cells, activating potassium channels and increasing potassium conductance, causing the membrane potential to remain negative for a longer period. ▪ Adenosine also inhibits L-type Ca channels, further prolonging the depolarization time. ▪ These actions result in a transient slowing of the sinus rate and an increase in atrioventricular (AV) nodal conduction delay. ▪ That's why adenosine is useful in the termination of paroxysmal supraventricular tachycardia. ▪ Acetylcholine behaves similarly by increasing outward K conductance while decreasing inward Ca and Na currents during phase 4. ▪ Cardiac cells, in their resting state, are electrically polarized; their insides are negatively charged with respect to their outsides."
+        }
+      ]
+    },
+    {
+      "question": "How do nitrates cause vasodilation at the molecular level?",
+      "keywords": [
+        "nitrates",
+        "nitric oxide",
+        "guanylate cyclase",
+        "cyclic GMP"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Drugs ::288",
+          "dense_score": 0.8,
+          "rerank_score": 0.5444,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Drugs :",
+          "page_numbers": [
+            199,
+            200
+          ],
+          "text": "Antianginal Drugs Nitrate Chapter 5 Pharmacology - Increased levels of cGMP lead to decreased intracellular calcium, resultant decreased activity of myosin light-chain kinase, and, finally, myosin light chain dephosphorylation and vascular smooth muscle relaxation. - Nitrates are primarily venodilators and increase peripheral venous capacitance, thereby reducing cardiac preload and left ventricular end-diastolic volume and pressure which decreases left ventricular wall stress and myocardial oxygen demand to relieve anginal symptoms. - Nitrates also have a modest effect on arteriolar dilation and cause a decrease in systemic vascular resistance and cardiac afterload. ▪ Clinical use: - Angina, acute coronary syndrome, pulmonary edema. ▪ Side effects : - Cutaneous Flushing, headache (because of the vasodilatory properties of nitrates in the meninges and skin). - Orthostatic hypotension. - Reflex tachycardia and fluid retention. - Monday disease in industrial exposure: Development of tolerance for the vasodilating action during the work week and loss of tolerance over the weekend → tachycardia, dizziness, headache upon reexposure.",
+          "expanded_text": "Antianginal Drugs Nitrate Chapter 5 Pharmacology - Increased levels of cGMP lead to decreased intracellular calcium, resultant decreased activity of myosin light-chain kinase, and, finally, myosin light chain dephosphorylation and vascular smooth muscle relaxation. - Nitrates are primarily venodilators and increase peripheral venous capacitance, thereby reducing cardiac preload and left ventricular end-diastolic volume and pressure which decreases left ventricular wall stress and myocardial oxygen demand to relieve anginal symptoms. - Nitrates also have a modest effect on arteriolar dilation and cause a decrease in systemic vascular resistance and cardiac afterload. ▪ Clinical use: - Angina, acute coronary syndrome, pulmonary edema. ▪ Side effects : - Cutaneous Flushing, headache (because of the vasodilatory properties of nitrates in the meninges and skin). - Orthostatic hypotension. - Reflex tachycardia and fluid retention. - Monday disease in industrial exposure: Development of tolerance for the vasodilating action during the work week and loss of tolerance over the weekend → tachycardia, dizziness, headache upon reexposure."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Carotid massage::101",
+          "dense_score": 0.7384,
+          "rerank_score": 0.0695,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Carotid massage:",
+          "page_numbers": [
+            78,
+            79
+          ],
+          "text": "- Blood vessels: Arteriolar and venular smooth muscle relaxes, producing vasodilation. There is also increased capillary permeability, leading to fluid extravasation into the interstitium and a decrease in Natriuretic peptides Organ Factors determining autoregulation adenosine, NO, CO2, ↓ O2 Brain Local metabolites (vasodilatory): CO2 (pH) Kidneys Myogenic and tubuloglomerular feedback Lungs Hypoxia causes vasoconstriction Skeletal muscle Local metabolites during exercise: CO2, H, Adenosine, Lactate, K (CHALK) At rest: sympathetic tone Skin Sympathetic vasoconstriction most important mechanism for temperature control 1. The pulmonary vasculature is unique in that hypoxia causes vasoconstriction so that only wellventilated areas are perfused. ▪ In other organs, hypoxia causes vasodilation. 2.",
+          "expanded_text": "- Blood vessels: Arteriolar and venular smooth muscle relaxes, producing vasodilation. There is also increased capillary permeability, leading to fluid extravasation into the interstitium and a decrease in Natriuretic peptides Organ Factors determining autoregulation adenosine, NO, CO2, ↓ O2 Brain Local metabolites (vasodilatory): CO2 (pH) Kidneys Myogenic and tubuloglomerular feedback Lungs Hypoxia causes vasoconstriction Skeletal muscle Local metabolites during exercise: CO2, H, Adenosine, Lactate, K (CHALK) At rest: sympathetic tone Skin Sympathetic vasoconstriction most important mechanism for temperature control 1. The pulmonary vasculature is unique in that hypoxia causes vasoconstriction so that only wellventilated areas are perfused. ▪ In other organs, hypoxia causes vasodilation. 2."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::461",
+          "dense_score": 0.7389,
+          "rerank_score": 0.0166,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            26,
+            27
+          ],
+          "text": "If you'd like to make a donation, please see the inside front cover for more details. The BHF is the largest independent funder of cardiovascular research in the UK. Some highlights of our research into medicines include: For more information on the BHF's research into medicines, see bhf.org.uk/research 58 59 Nitrates Nitrates relax the muscles in the walls of the blood vessels, including the coronary arteries. This causes them to widen (dilate), which improves the amount of Nitrates are valuable in preventing angina, but they may become less effective if they’re used continuously over a long period. If you find you’re having to take your nitrate medicines more often than usual, speak to your doctor, pharmacist or nurse.",
+          "expanded_text": "If you'd like to make a donation, please see the inside front cover for more details. The BHF is the largest independent funder of cardiovascular research in the UK. Some highlights of our research into medicines include: For more information on the BHF's research into medicines, see bhf.org.uk/research 58 59 Nitrates Nitrates relax the muscles in the walls of the blood vessels, including the coronary arteries. This causes them to widen (dilate), which improves the amount of Nitrates are valuable in preventing angina, but they may become less effective if they’re used continuously over a long period. If you find you’re having to take your nitrate medicines more often than usual, speak to your doctor, pharmacist or nurse."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Carotid massage::103",
+          "dense_score": 0.7398,
+          "rerank_score": 0.0037,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Carotid massage:",
+          "page_numbers": [
+            79,
+            80
+          ],
+          "text": "▪ Nitric oxide acts within the vascular smooth muscle cells via a soluble guanylate cyclase enzyme to increase production of cyclic GMP and cause smooth muscle relaxation. Autoregulation of systemic blood flow ▪ Fluid movement across the capillary wall (filtration) into the interstitium is tightly balanced by lymphatic drainage, which returns interstitial fluid to the vasculature.",
+          "expanded_text": "▪ Nitric oxide acts within the vascular smooth muscle cells via a soluble guanylate cyclase enzyme to increase production of cyclic GMP and cause smooth muscle relaxation. Autoregulation of systemic blood flow ▪ Fluid movement across the capillary wall (filtration) into the interstitium is tightly balanced by lymphatic drainage, which returns interstitial fluid to the vasculature."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Cautions and contraindications ::290",
+          "dense_score": 0.7437,
+          "rerank_score": 0.0021,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Cautions and contraindications :",
+          "page_numbers": [
+            201
+          ],
+          "text": "▪ Around-the-clock nitrate administration (in any form) rapidly results in development of tolerance to nitrates. ▪ This is why a nitrate-free interval must be provided every day in patients that are using daily long acting nitrates to avoid tolerance to the drug. ▪ The mechanism by which this occurs has not been fully demonstrated, but it is theorized that it is due to a decreased vascular sensitivity to nitrates and an increased sensitivity to endogenous vasoconstricting agents. ▪ Usually the nitrate-free period is timed to occur during the night when the patient is sleeping and cardiac work is the least. ▪ Pindolol and acebutolol: partial β-agonists contraindicated in angina (they have intrinsic sympathomimetic activity). ▪ Drugs that decrease mortality in patients with stable angina include aspirin, nitroglycerin, and beta blockers. ▪ Mechanism of action: - Inhibits the late phase of sodium current thereby reducing diastolic wall tension and oxygen consumption.",
+          "expanded_text": "▪ Around-the-clock nitrate administration (in any form) rapidly results in development of tolerance to nitrates. ▪ This is why a nitrate-free interval must be provided every day in patients that are using daily long acting nitrates to avoid tolerance to the drug. ▪ The mechanism by which this occurs has not been fully demonstrated, but it is theorized that it is due to a decreased vascular sensitivity to nitrates and an increased sensitivity to endogenous vasoconstricting agents. ▪ Usually the nitrate-free period is timed to occur during the night when the patient is sleeping and cardiac work is the least. ▪ Pindolol and acebutolol: partial β-agonists contraindicated in angina (they have intrinsic sympathomimetic activity). ▪ Drugs that decrease mortality in patients with stable angina include aspirin, nitroglycerin, and beta blockers. ▪ Mechanism of action: - Inhibits the late phase of sodium current thereby reducing diastolic wall tension and oxygen consumption."
+        }
+      ]
+    },
+    {
+      "question": "How do niacin's effects on lipolysis change plasma lipid levels?",
+      "keywords": [
+        "niacin",
+        "lipolysis",
+        "VLDL",
+        "LDL",
+        "HDL"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Contraindication::313",
+          "dense_score": 0.7915,
+          "rerank_score": 0.72,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Contraindication:",
+          "page_numbers": [
+            214,
+            215
+          ],
+          "text": "Gemfibrozil, Fenofibrate (fibrates) ▪ Drugs: - Nicotinic acid (vitamin B3). ▪ Mechanism of action: - Inhibits lipolysis (hormone sensitive lipase) in adipose tissue; reduces hepatic VLDL synthesis, results in →↓ plasma VLD, ↓ plasma LDL, ↑↑ plasma HDL (↓ clearance). ▪ Side effects: - Niacin's main side effects are cutaneous (flushing, warmth, itching). This side effect may be mediated by prostaglandins, as evidenced by the fact that 325mg of aspirin taken 30-60 minutes before nicotinic acid administration significantly reduces these cutaneous symptoms. - Hyperglycemia: Niacin use is also associated with increased insulin resistance, which sometimes manifests as acanthosis nigricans. - Hyperuricemia: there is an increase in serum uric acid in some patients being treated with niacin. Therefore, patients with gout should be cautious when niacin is started. - Hepatotoxicity can occur with high doses of nicotinic acid. ▪ Mechanism of action: - Prevents cholesterol absorption at small intestine brush border → results in ↓ LDL.",
+          "expanded_text": "Gemfibrozil, Fenofibrate (fibrates) ▪ Drugs: - Nicotinic acid (vitamin B3). ▪ Mechanism of action: - Inhibits lipolysis (hormone sensitive lipase) in adipose tissue; reduces hepatic VLDL synthesis, results in →↓ plasma VLD, ↓ plasma LDL, ↑↑ plasma HDL (↓ clearance). ▪ Side effects: - Niacin's main side effects are cutaneous (flushing, warmth, itching). This side effect may be mediated by prostaglandins, as evidenced by the fact that 325mg of aspirin taken 30-60 minutes before nicotinic acid administration significantly reduces these cutaneous symptoms. - Hyperglycemia: Niacin use is also associated with increased insulin resistance, which sometimes manifests as acanthosis nigricans. - Hyperuricemia: there is an increase in serum uric acid in some patients being treated with niacin. Therefore, patients with gout should be cautious when niacin is started. - Hepatotoxicity can occur with high doses of nicotinic acid. ▪ Mechanism of action: - Prevents cholesterol absorption at small intestine brush border → results in ↓ LDL."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Mechanism of action ::308",
+          "dense_score": 0.6947,
+          "rerank_score": 0.0091,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Mechanism of action :",
+          "page_numbers": [
+            212
+          ],
+          "text": "- Myositis causes elevations of creatinine kinase and usually occurs when higher doses of statins are used, whereas myalgias are a more common symptom not associated with a rise in serum creatinine kinase. - Rhabdomyolysis (Acute renal failure is a possible sequela of rhabdomyolysis). - The risk of statin myopathy is increased when fibrates and/or niacin are used concomitantly. - Hepatotoxicity (Hepatic transaminases should be checked prior to initiating therapy and repeated if symptoms of hepatic injury occur). HMG-CoA reductase inhibitors",
+          "expanded_text": "- Myositis causes elevations of creatinine kinase and usually occurs when higher doses of statins are used, whereas myalgias are a more common symptom not associated with a rise in serum creatinine kinase. - Rhabdomyolysis (Acute renal failure is a possible sequela of rhabdomyolysis). - The risk of statin myopathy is increased when fibrates and/or niacin are used concomitantly. - Hepatotoxicity (Hepatic transaminases should be checked prior to initiating therapy and repeated if symptoms of hepatic injury occur). HMG-CoA reductase inhibitors"
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Contraindication::312",
+          "dense_score": 0.7074,
+          "rerank_score": 0.0043,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Contraindication:",
+          "page_numbers": [
+            214
+          ],
+          "text": "- Because of this tendency for bile acid-binding agents to increase serum triglyceride levels, they should not be used in hypercholesterolemia patients who have concomitant hypertriglyceridemia. ▪ Mechanism of action: - Fibrates work by activating peroxisome proliferator-activated receptor alpha (PPAR-α), which leads to decreased hepatic VLDL production and increased lipoprotein lipase activity. - Lipoprotein lipase (LPL) hydrolyzes triglycerides in chylomicrons and VLDL to release free fatty acids, which can be used for energy or converted back to triglycerides for storage in adipose ▪ Clinical uses: - Used in hypertriglyceridemia. Fibrates (gemfibrozil) are the first-choice drug class and can rapidly lower triglycerides by 25-50% or more. ▪ Side effects : - Myopathy (↑ risk with statins). - Gallstones (↑ risk with bile acid resins).",
+          "expanded_text": "- Because of this tendency for bile acid-binding agents to increase serum triglyceride levels, they should not be used in hypercholesterolemia patients who have concomitant hypertriglyceridemia. ▪ Mechanism of action: - Fibrates work by activating peroxisome proliferator-activated receptor alpha (PPAR-α), which leads to decreased hepatic VLDL production and increased lipoprotein lipase activity. - Lipoprotein lipase (LPL) hydrolyzes triglycerides in chylomicrons and VLDL to release free fatty acids, which can be used for energy or converted back to triglycerides for storage in adipose ▪ Clinical uses: - Used in hypertriglyceridemia. Fibrates (gemfibrozil) are the first-choice drug class and can rapidly lower triglycerides by 25-50% or more. ▪ Side effects : - Myopathy (↑ risk with statins). - Gallstones (↑ risk with bile acid resins)."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Contraindication::315",
+          "dense_score": 0.6798,
+          "rerank_score": 0.0009,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Contraindication:",
+          "page_numbers": [
+            216,
+            217
+          ],
+          "text": "▪ Although low HDL concentration is associated with increased cardiovascular risk, the use of medications to raise HDL levels does not improve cardiovascular outcomes. Fish oil and marine omega-3 fatty acids ▪ Class I agents are divided into three groups (IA, IB and IC) based upon their effect on the length of the action potential: - Ia lengthens the action potential (right shift). - Ib shortens the action potential (left shift). - Ic does not significantly affect the action potential (no shift). ▪ Slow or block conduction (selectively depress tissue that is frequently depolarized [tachycardia]).",
+          "expanded_text": "▪ Although low HDL concentration is associated with increased cardiovascular risk, the use of medications to raise HDL levels does not improve cardiovascular outcomes. Fish oil and marine omega-3 fatty acids ▪ Class I agents are divided into three groups (IA, IB and IC) based upon their effect on the length of the action potential: - Ia lengthens the action potential (right shift). - Ib shortens the action potential (left shift). - Ic does not significantly affect the action potential (no shift). ▪ Slow or block conduction (selectively depress tissue that is frequently depolarized [tachycardia])."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::453",
+          "dense_score": 0.6919,
+          "rerank_score": 0.0004,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            22
+          ],
+          "text": "It’s possible to take a fibrate and a statin together, but this must be carried out under strict medical supervision. • Nicotinic acid medicines help to lower non-HDL cholesterol, and increase HDL cholesterol. They may not be suitable if you have diabetes, unstable • Ezetimibe helps to lower blood cholestero l b y preventing it from being absorbed into the small intestine. It can help reduce non-HDL cholesterol and, with a low-dose statin, can be even more effective. The side effects of all cholesterol-lowering medicines, including statins, are: • tiredness • disturbed sleep • feeling sick • vomiting • diarrhoea • headache • and muscle weakness . A r are side effect is inflammation of the muscles (myositis). If you have any unexpected muscle pain, tenderness or weakness, you should tell your doctor immediately.",
+          "expanded_text": "It’s possible to take a fibrate and a statin together, but this must be carried out under strict medical supervision. • Nicotinic acid medicines help to lower non-HDL cholesterol, and increase HDL cholesterol. They may not be suitable if you have diabetes, unstable • Ezetimibe helps to lower blood cholestero l b y preventing it from being absorbed into the small intestine. It can help reduce non-HDL cholesterol and, with a low-dose statin, can be even more effective. The side effects of all cholesterol-lowering medicines, including statins, are: • tiredness • disturbed sleep • feeling sick • vomiting • diarrhoea • headache • and muscle weakness . A r are side effect is inflammation of the muscles (myositis). If you have any unexpected muscle pain, tenderness or weakness, you should tell your doctor immediately."
+        }
+      ]
+    },
+    {
+      "question": "How does septum primum development contribute to atrial septation?",
+      "keywords": [
+        "septum primum",
+        "endocardial cushion",
+        "primitive atrium"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::1",
+          "dense_score": 0.7781,
+          "rerank_score": 0.879,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            3
+          ],
+          "text": "A. Septum Primum: - Septum primum grows downward toward the endocardial cushion from the roof of the primitive atrium. - There is a space between the first septum and the endocardial cushion called the foramen primum. B. Foramen Primum: - The foramen primum is closed by the fusion of the septum primum with the endocardial cushion a short time later. - Neural crest cells migrate into the endocardial cushion. - The endocardial cushion contributes to the right and left atrioventricular canals, the atrioventricular valves, membranous part of the interventricular septum, and the aorticopulmonary septum. C. Foramen Secundum: - The foramen secundum forms in the upper part of septum primum as a result of programmed cell death. - This new opening is the second foramen; it shunts blood right-to-left. D. Septum Secundum: - The septum secundum grows from the roof downward to the right of the first septum and overlaps the septum primum. - They later fuse and form the atrial septum.",
+          "expanded_text": "A. Septum Primum: - Septum primum grows downward toward the endocardial cushion from the roof of the primitive atrium. - There is a space between the first septum and the endocardial cushion called the foramen primum. B. Foramen Primum: - The foramen primum is closed by the fusion of the septum primum with the endocardial cushion a short time later. - Neural crest cells migrate into the endocardial cushion. - The endocardial cushion contributes to the right and left atrioventricular canals, the atrioventricular valves, membranous part of the interventricular septum, and the aorticopulmonary septum. C. Foramen Secundum: - The foramen secundum forms in the upper part of septum primum as a result of programmed cell death. - This new opening is the second foramen; it shunts blood right-to-left. D. Septum Secundum: - The septum secundum grows from the roof downward to the right of the first septum and overlaps the septum primum. - They later fuse and form the atrial septum."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::3",
+          "dense_score": 0.7187,
+          "rerank_score": 0.728,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            4,
+            5
+          ],
+          "text": "- This change in pressure is due to the decrease in the volume of blood and pressure in the right atrium with the cutting of the umbilical vein and the opening of the pulmonary circuit, and the decrease in pulmonary resistance. EL Husseiny's Essentials for USMLE step 1 Cardiovascular System ▪ Patent foramen ovale is caused by failure of septum primum and septum secundum to fuse after birth; most are left untreated. ▪ Can lead to paradoxical emboli (stroke in the setting of venous thromboembolism), similar to those resulting from an ASD. ▪ Unlike atrial septation, ventricular septation occurs completely without any prenatal shunting before birth. ▪ The fully developed interventricular septum is formed by two components: mostly by a thick muscular part and a thin, non-muscular (membranous) part at the superior end. ▪ The muscular part of the septum forms by an upward growth of muscle from the floor of the primitive ventricle toward the endocardial cushion. It does not reach the cushion and leaves an open IV foramen.",
+          "expanded_text": "- This change in pressure is due to the decrease in the volume of blood and pressure in the right atrium with the cutting of the umbilical vein and the opening of the pulmonary circuit, and the decrease in pulmonary resistance. EL Husseiny's Essentials for USMLE step 1 Cardiovascular System ▪ Patent foramen ovale is caused by failure of septum primum and septum secundum to fuse after birth; most are left untreated. ▪ Can lead to paradoxical emboli (stroke in the setting of venous thromboembolism), similar to those resulting from an ASD. (atrial septal defect) ▪ Unlike atrial septation, ventricular septation occurs completely without any prenatal shunting before birth. ▪ The fully developed interventricular septum is formed by two components: mostly by a thick muscular part and a thin, non-muscular (membranous) part at the superior end. ▪ The muscular part of the septum forms by an upward growth of muscle from the floor of the primitive ventricle toward the endocardial cushion. It does not reach the cushion and leaves an open IV foramen."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::4",
+          "dense_score": 0.7195,
+          "rerank_score": 0.3301,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            5,
+            6
+          ],
+          "text": "▪ The membranous part forms mostly from the bulbar ridges (site of neural crest migration) of the endocardial cushions. ▪ The membranous part closes the IV foramen and completes ventricular septation. ▪ Growth of endocardial cushions separates atria from ventricles and contributes to both atrial septation and membranous portion of the interventricular septum. Septation of Ventricles Chapter 1 Anatomy ▪ During the fifth week, pairs of ridges develop from the endocardial cushion and Form on the walls of the truncus.",
+          "expanded_text": "▪ The membranous part forms mostly from the bulbar ridges (site of neural crest migration) of the endocardial cushions. ▪ The membranous part closes the IV foramen and completes ventricular septation. ▪ Growth of endocardial cushions separates atria from ventricles and contributes to both atrial septation and membranous portion of the interventricular septum. Septation of Ventricles Chapter 1 Anatomy ▪ During the fifth week, pairs of ridges develop from the endocardial cushion and Form on the walls of the truncus."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::5",
+          "dense_score": 0.7044,
+          "rerank_score": 0.0656,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            6,
+            7
+          ],
+          "text": "▪ The ridges twist around each other as they grow and form a spiral septum within the truncus called the aorticopulmonary septum (AP). ▪ The spiral septation of the truncus results in the formation of the aorta and pulmonary trunks and the semilunar valves. ▪ Migration of neural crest cells into the endocardial cushions contributes to the formation of the aorticopulmonary septum, and the neural crest cells play an important role in the development of the septum. ▪ Defects in the development of the aorticopulmonary septum result in three significant cyanotic congenital heart defects at birth (Transposition of great vessels, Tetralogy of Fallot, Persistent truncus arteriosus). Septation of the Truncus Arteriosus EL Husseiny's Essentials for USMLE step 1 Cardiovascular System ▪ Each of these abnormalities has right-to-left shunting thus producing cyanosis.",
+          "expanded_text": "▪ The ridges twist around each other as they grow and form a spiral septum within the truncus called the aorticopulmonary septum (AP). ▪ The spiral septation of the truncus results in the formation of the aorta and pulmonary trunks and the semilunar valves. ▪ Migration of neural crest cells into the endocardial cushions contributes to the formation of the aorticopulmonary septum, and the neural crest cells play an important role in the development of the septum. ▪ Defects in the development of the aorticopulmonary septum result in three significant cyanotic congenital heart defects at birth (Transposition of great vessels, Tetralogy of Fallot, Persistent truncus arteriosus). Septation of the Truncus Arteriosus EL Husseiny's Essentials for USMLE step 1 Cardiovascular System ▪ Each of these abnormalities has right-to-left shunting thus producing cyanosis."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:General Context:0",
+          "dense_score": 0.7522,
+          "rerank_score": 0.0517,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "General Context",
+          "page_numbers": [
+            2,
+            3
+          ],
+          "text": "Chapter 1 Anatomy ▪ First functional organ in vertebrate embryos; beats spontaneously by week 4 of development. ▪ The atrial, ventricular, and truncal septations occur concurrently. ▪ Complete septation of the atria does not occur until birth. ▪ During fetal circulation, it is critical that there is continuous right to left shunting (foramen ovale) across Septation of the chambers Septation of the Atria EL Husseiny's Essentials for USMLE step 1 Cardiovascular System",
+          "expanded_text": "Chapter 1 Anatomy ▪ First functional organ in vertebrate embryos; beats spontaneously by week 4 of development. ▪ The atrial, ventricular, and truncal septations occur concurrently. ▪ Complete septation of the atria does not occur until birth. ▪ During fetal circulation, it is critical that there is continuous right to left shunting (foramen ovale) across Septation of the chambers Septation of the Atria EL Husseiny's Essentials for USMLE step 1 Cardiovascular System"
+        }
+      ]
+    },
+    {
+      "question": "What is the relationship between the foramen primum and the foramen secundum during atrial septation?",
+      "keywords": [
+        "foramen primum",
+        "foramen secundum",
+        "septum primum",
+        "shunt"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::1",
+          "dense_score": 0.799,
+          "rerank_score": 0.9932,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            3
+          ],
+          "text": "A. Septum Primum: - Septum primum grows downward toward the endocardial cushion from the roof of the primitive atrium. - There is a space between the first septum and the endocardial cushion called the foramen primum. B. Foramen Primum: - The foramen primum is closed by the fusion of the septum primum with the endocardial cushion a short time later. - Neural crest cells migrate into the endocardial cushion. - The endocardial cushion contributes to the right and left atrioventricular canals, the atrioventricular valves, membranous part of the interventricular septum, and the aorticopulmonary septum. C. Foramen Secundum: - The foramen secundum forms in the upper part of septum primum as a result of programmed cell death. - This new opening is the second foramen; it shunts blood right-to-left. D. Septum Secundum: - The septum secundum grows from the roof downward to the right of the first septum and overlaps the septum primum. - They later fuse and form the atrial septum.",
+          "expanded_text": "A. Septum Primum: - Septum primum grows downward toward the endocardial cushion from the roof of the primitive atrium. - There is a space between the first septum and the endocardial cushion called the foramen primum. B. Foramen Primum: - The foramen primum is closed by the fusion of the septum primum with the endocardial cushion a short time later. - Neural crest cells migrate into the endocardial cushion. - The endocardial cushion contributes to the right and left atrioventricular canals, the atrioventricular valves, membranous part of the interventricular septum, and the aorticopulmonary septum. C. Foramen Secundum: - The foramen secundum forms in the upper part of septum primum as a result of programmed cell death. - This new opening is the second foramen; it shunts blood right-to-left. D. Septum Secundum: - The septum secundum grows from the roof downward to the right of the first septum and overlaps the septum primum. - They later fuse and form the atrial septum."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::2",
+          "dense_score": 0.7898,
+          "rerank_score": 0.9871,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            3,
+            4
+          ],
+          "text": "Chapter 1 Anatomy E. Foramen Ovale: - Foramen ovale is the oval opening in the septum secundum as it overlaps the foramen secundum that provides flow between the two atria. - At birth, there is a reversal of atrial pressures, with left atrial pressure going higher than the right atrium. - This results in the closure of foramen ovale by pushing the septum primum against the septum secundum.",
+          "expanded_text": "Chapter 1 Anatomy E. Foramen Ovale: - Foramen ovale is the oval opening in the septum secundum as it overlaps the foramen secundum that provides flow between the two atria. - At birth, there is a reversal of atrial pressures, with left atrial pressure going higher than the right atrium. - This results in the closure of foramen ovale by pushing the septum primum against the septum secundum."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ The major events and structures of atrial septation include::3",
+          "dense_score": 0.7226,
+          "rerank_score": 0.8613,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ The major events and structures of atrial septation include:",
+          "page_numbers": [
+            4,
+            5
+          ],
+          "text": "- This change in pressure is due to the decrease in the volume of blood and pressure in the right atrium with the cutting of the umbilical vein and the opening of the pulmonary circuit, and the decrease in pulmonary resistance. EL Husseiny's Essentials for USMLE step 1 Cardiovascular System ▪ Patent foramen ovale is caused by failure of septum primum and septum secundum to fuse after birth; most are left untreated. ▪ Can lead to paradoxical emboli (stroke in the setting of venous thromboembolism), similar to those resulting from an ASD. ▪ Unlike atrial septation, ventricular septation occurs completely without any prenatal shunting before birth. ▪ The fully developed interventricular septum is formed by two components: mostly by a thick muscular part and a thin, non-muscular (membranous) part at the superior end. ▪ The muscular part of the septum forms by an upward growth of muscle from the floor of the primitive ventricle toward the endocardial cushion. It does not reach the cushion and leaves an open IV foramen.",
+          "expanded_text": "- This change in pressure is due to the decrease in the volume of blood and pressure in the right atrium with the cutting of the umbilical vein and the opening of the pulmonary circuit, and the decrease in pulmonary resistance. EL Husseiny's Essentials for USMLE step 1 Cardiovascular System ▪ Patent foramen ovale is caused by failure of septum primum and septum secundum to fuse after birth; most are left untreated. ▪ Can lead to paradoxical emboli (stroke in the setting of venous thromboembolism), similar to those resulting from an ASD. (atrial septal defect) ▪ Unlike atrial septation, ventricular septation occurs completely without any prenatal shunting before birth. ▪ The fully developed interventricular septum is formed by two components: mostly by a thick muscular part and a thin, non-muscular (membranous) part at the superior end. ▪ The muscular part of the septum forms by an upward growth of muscle from the floor of the primitive ventricle toward the endocardial cushion. It does not reach the cushion and leaves an open IV foramen."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:2. Atrial septal defect::154",
+          "dense_score": 0.7067,
+          "rerank_score": 0.1066,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "2. Atrial septal defect:",
+          "page_numbers": [
+            114
+          ],
+          "text": "▪ Defect in interatrial septum; loud S1; wide, fixed split S2 (increased blood in right heart delays closure of pulmonary valve). ▪ Ostium secundum defects most common (90% of cases) and usually occur as isolated findings; ostium primum defects rarer yet usually occur with other cardiac anomalies. ▪ Ostium primum type is associated with Down syndrome. ▪ Symptoms range from none to HF. ▪ O2 saturation ↑ in RA, RV, and pulmonary artery. ▪ Paradoxical emboli are an important complication.",
+          "expanded_text": "▪ Defect in interatrial septum; loud S1; wide, fixed split S2 (increased blood in right heart delays closure of pulmonary valve). ▪ Ostium secundum defects most common (90% of cases) and usually occur as isolated findings; ostium primum defects rarer yet usually occur with other cardiac anomalies. ▪ Ostium primum type is associated with Down syndrome. ▪ Symptoms range from none to HF. (heart failure) ▪ O2 saturation ↑ in RA, RV, (right ventricle) and pulmonary artery. ▪ Paradoxical emboli are an important complication."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:General Context:0",
+          "dense_score": 0.7146,
+          "rerank_score": 0.0208,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "General Context",
+          "page_numbers": [
+            2,
+            3
+          ],
+          "text": "Chapter 1 Anatomy ▪ First functional organ in vertebrate embryos; beats spontaneously by week 4 of development. ▪ The atrial, ventricular, and truncal septations occur concurrently. ▪ Complete septation of the atria does not occur until birth. ▪ During fetal circulation, it is critical that there is continuous right to left shunting (foramen ovale) across Septation of the chambers Septation of the Atria EL Husseiny's Essentials for USMLE step 1 Cardiovascular System",
+          "expanded_text": "Chapter 1 Anatomy ▪ First functional organ in vertebrate embryos; beats spontaneously by week 4 of development. ▪ The atrial, ventricular, and truncal septations occur concurrently. ▪ Complete septation of the atria does not occur until birth. ▪ During fetal circulation, it is critical that there is continuous right to left shunting (foramen ovale) across Septation of the chambers Septation of the Atria EL Husseiny's Essentials for USMLE step 1 Cardiovascular System"
+        }
+      ]
+    },
+    {
+      "question": "What do MRAs (mineralocorticoid receptor antagonists) do for heart failure patients?",
+      "keywords": [
+        "MRA",
+        "spironolactone",
+        "eplerenone",
+        "blood pressure",
+        "salt"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "living-with-hf-guide.pdf:MEDICATIONS COMMONLY USED:540",
+          "dense_score": 0.6912,
+          "rerank_score": 0.951,
+          "source_file": "Living-With-HF-Guide.pdf",
+          "section_title": "MEDICATIONS COMMONLY USED",
+          "page_numbers": [
+            19
+          ],
+          "text": "Use this list to better understand your possible medications. Failure Medications Generic Name(s)* Brand Name(s)* What They Do ACEi/ARB (angiotensin-converting enzyme inhibitors/ angiotensin receptor blockers) enalapril, captopril, lisinopril, ramipril, candesartan, losartan, valsartan Vasotec, Capoten, Zestril, Atacand, Cozaar, Diovan • Relax and widens blood vessels. • Lower blood pressure. ARNi (angiotensin receptorneprilysin inhibitors) sacubitril combined with valsartan Entresto • Combines an ARB with a drug that helps the arteries widen and rids the body of salt. • Lowers blood pressure. MRA (mineralocorticoid receptor antagonists) spironolactone, eplerenone Aldactone, Inspra • May lower blood pressure. • Help the body get rid of salt and fluids.",
+          "expanded_text": "Use this list to better understand your possible medications. Failure Medications Generic Name(s)* Brand Name(s)* What They Do ACEi/ARB (angiotensin-converting enzyme inhibitors/ angiotensin receptor blockers) enalapril, captopril, lisinopril, ramipril, candesartan, losartan, valsartan Vasotec, Capoten, Zestril, Atacand, Cozaar, Diovan • Relax and widens blood vessels. • Lower blood pressure. ARNi (angiotensin receptorneprilysin inhibitors) sacubitril combined with valsartan Entresto • Combines an ARB (angiotensin receptor blocker) with a drug that helps the arteries widen and rids the body of salt. • Lowers blood pressure. MRA (mineralocorticoid receptor antagonists) spironolactone, eplerenone Aldactone, Inspra • May lower blood pressure. • Help the body get rid of salt and fluids."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Drug interactions ::303",
+          "dense_score": 0.7464,
+          "rerank_score": 0.5348,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Drug interactions :",
+          "page_numbers": [
+            209
+          ],
+          "text": "▪ Increased activity of the sympathetic nervous system and renin-angiotensin-aldosterone system both promote deleterious cardiac remodeling. In particular, elevated angiotensin II and aldosterone levels increase pathologic cardiomyocyte hypertrophy and stimulate collagen deposition by fibroblasts (cardiac fibrosis). ▪ Accordingly, ACE inhibitors (lisinopril), angiotensin-receptor blockers (losartan), and mineralocorticoid receptor antagonists (spironolactone, epleronone) reduce mortality in patients with FIFrEF via a reduction in angiotensin ll-mediated (and downstream aldosterone-mediated) cardiac remodeling . ▪ Beta blockers (metoprolol, carvedilol) also reduce mortality in patients with chronic HFrEF, likely by reducing hemodynamic factors (increased wall stress) that promote pathologic cardiac remodeling.",
+          "expanded_text": "▪ Increased activity of the sympathetic nervous system and renin-angiotensin-aldosterone system both promote deleterious cardiac remodeling. In particular, elevated angiotensin II and aldosterone levels increase pathologic cardiomyocyte hypertrophy and stimulate collagen deposition by fibroblasts (cardiac fibrosis). ▪ Accordingly, ACE inhibitors (lisinopril), angiotensin-receptor blockers (losartan), and mineralocorticoid receptor antagonists (spironolactone, epleronone) reduce mortality in patients with FIFrEF via a reduction in angiotensin ll-mediated (and downstream aldosterone-mediated) cardiac remodeling . ▪ Beta blockers (metoprolol, carvedilol) also reduce mortality in patients with chronic HFrEF, (heart failure with reduced ejection fraction) likely by reducing hemodynamic factors (increased wall stress) that promote pathologic cardiac remodeling."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:❖ Use of Antihypertensive Drugs in Comorbid Conditions::285",
+          "dense_score": 0.7041,
+          "rerank_score": 0.1828,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "❖ Use of Antihypertensive Drugs in Comorbid Conditions:",
+          "page_numbers": [
+            198
+          ],
+          "text": "In patients with hypertension and chronic ischemic myocardial failure, ACE inhibitors are considered to be the most effective long-term treatment option, as they inhibit myocardial remodeling and the associated deterioration of ventricular contractile function, in addition to reducing blood pressure. ▪ A beta-blocker would also be beneficial for these patients. 5.",
+          "expanded_text": "In patients with hypertension and chronic ischemic myocardial failure, ACE inhibitors are considered to be the most effective long-term treatment option, as they inhibit myocardial remodeling and the associated deterioration of ventricular contractile function, in addition to reducing blood pressure. ▪ A beta-blocker would also be beneficial for these patients. 5."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Treatment includes::217",
+          "dense_score": 0.6918,
+          "rerank_score": 0.071,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Treatment includes:",
+          "page_numbers": [
+            152
+          ],
+          "text": "▪ Findings: - HF, S3, systolic regurgitant murmur, dilated heart on echocardiogram, balloon appearance of heart on CXR. ▪ Treatment: - Na restriction, ACE inhibitors, β-blockers, diuretics, mineralocorticoid receptor blockers ▪ It is very important to distinguish between hypertrophic cardiomyopathy (HCM) and HOCM. HCM is a reaction to stressors on the heart such as increased blood pressure. The heart hypertrophies to carry the load, but then develops difficulty “relaxing” in diastole. If the heart can’t relax to receive blood, the patient becomes short of breath.",
+          "expanded_text": "▪ Findings: - HF, (heart failure) S3, systolic regurgitant murmur, dilated heart on echocardiogram, balloon appearance of heart on CXR. (chest X-ray) ▪ Treatment: - Na restriction, ACE inhibitors, β-blockers, diuretics, mineralocorticoid receptor blockers ▪ It is very important to distinguish between hypertrophic cardiomyopathy (HCM) and HOCM. HCM is a reaction to stressors on the heart such as increased blood pressure. The heart hypertrophies to carry the load, but then develops difficulty “relaxing” in diastole. If the heart can’t relax to receive blood, the patient becomes short of breath."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Pharmacotherapy aimed at ::292",
+          "dense_score": 0.6947,
+          "rerank_score": 0.0452,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Pharmacotherapy aimed at :",
+          "page_numbers": [
+            203
+          ],
+          "text": "- ↓ preload: diuretics, ACEIs, ARBs, and venodilators. - ↓ afterload: ACEIs, ARBs, and arteriodilators. - ↑ contractility: digoxin, beta agonists, PDE III inhibitors. - ↓ remodeling of cardiac muscle: ACEIs, ARBs, spironolactone, beta blockers. ▪ Whereas digoxin does not improve survival, ACEIs, ARBs, beta blockers, and spironolactone have been proven beneficial in CHF (all drugs that have been shown to improve survival do so by inhibiting remodeling). ▪ Mechanism of action: - Direct effect: o Inhibition of cardiac Na-K ATPase → Results in decreased sodium efflux and ↑ intracellular Na → ↓ Na/Ca exchange → ↑ intracellular Ca →↑ Ca release from sarcoplasmic reticulum → ↑ actin-myosin interaction → ↑ contractile force. - Indirect effect: o Inhibition of neuronal Na-K ATPase → Results in ↑ vagal activity → Good for supraventricular arrhythmia.",
+          "expanded_text": "- ↓ preload: diuretics, ACEIs, ARBs, and venodilators. - ↓ afterload: ACEIs, ARBs, and arteriodilators. - ↑ contractility: digoxin, beta agonists, PDE III inhibitors. - ↓ remodeling of cardiac muscle: ACEIs, ARBs, spironolactone, beta blockers. ▪ Whereas digoxin does not improve survival, ACEIs, ARBs, beta blockers, and spironolactone have been proven beneficial in CHF (congestive heart failure) (all drugs that have been shown to improve survival do so by inhibiting remodeling). ▪ Mechanism of action: - Direct effect: o Inhibition of cardiac Na-K ATPase → Results in decreased sodium efflux and ↑ intracellular Na → ↓ Na/Ca exchange → ↑ intracellular Ca →↑ Ca release from sarcoplasmic reticulum → ↑ actin-myosin interaction → ↑ contractile force. - Indirect effect: o Inhibition of neuronal Na-K ATPase → Results in ↑ vagal activity → Good for supraventricular arrhythmia."
+        }
+      ]
+    },
+    {
+      "question": "What do diuretics do for heart failure patients and what are some examples?",
+      "keywords": [
+        "diuretics",
+        "furosemide",
+        "fluid",
+        "lungs"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "living-with-hf-guide.pdf:MEDICATIONS COMMONLY USED:542",
+          "dense_score": 0.7283,
+          "rerank_score": 0.7946,
+          "source_file": "Living-With-HF-Guide.pdf",
+          "section_title": "MEDICATIONS COMMONLY USED",
+          "page_numbers": [
+            19,
+            20
+          ],
+          "text": "Diuretics furosemide, bumetanide, torsemide, hydrochlorothiazide Lasix, Bumex, Demadex, HCTZ • Reduce excess fluids and salt to decrease the buildup of fluid in the lungs and other parts of the body, such as the ankles, legs and abdomen. Pacemaker current inhibitor ivabradine Corlanor • May be prescribed for people for whom beta those unable to take beta blockers. Vasodilators isosorbide dinitrate, hydralazine BiDil, Apresoline • Relax and widen blood vessels. • Lower blood pressure. Vericiguat vericiguat Verquvo • Relaxes and widens blood vessels. • Lowers blood pressure. care team for additional information about your personal regimen. ACEi (angiotensin-converting enzyme inhibitors) and ARB (angiotensin receptor blockers) widen blood vessels, lower blood ARNI (angiotensin receptor-neprilysin inhibitors) are a drug combination of a neprilysin inhibitor and an ARB. ARNI widen blood vessels, lower blood pressure, reduce sodium (salt) retention and decrease the Beta blockers may lower blood pressure, slow Mineralocorticoid receptor antagonists (MRA) are a type of diuretic that help eliminate extra salt and fluid. SGLTi (sodium-glucose cotransporter inhibitors) are diabetes medications that lower patients with or without diabetes. Blood thinners help prevent blood clots from forming. If a clot breaks off and gets stuck Cholesterol lowering agents reduce cholesterol in the blood. Diuretics help your body get rid of extra water and sodium to reduce the buildup of fluid in the lungs, ankles, legs and abdomen. Ivabradine (pacemaker channel inhibitor) blockers. Hydralazine (with or without nitrate) relaxes and widens blood vessels, lowers blood Vericiguat relaxes and widens blood vessels, workload. Oxygen therapy delivers concentrated oxygen to the lungs. This helps increase the amount of oxygen that can get into the blood. Oxygen therapy can improve shortness of breath and increase a person’s ability to be physically active. failure. Talk with your health care team for more information about your personal regimen. 38 39 Using Diuretics some side effects. One common side effect of most diuretics is potassium loss. The body needs potassium to you take a diuretic that causes you to lose potassium, you may be asked to increase the potassium in your diet.",
+          "expanded_text": "Diuretics furosemide, bumetanide, torsemide, hydrochlorothiazide Lasix, Bumex, Demadex, HCTZ • Reduce excess fluids and salt to decrease the buildup of fluid in the lungs and other parts of the body, such as the ankles, legs and abdomen. Pacemaker current inhibitor ivabradine Corlanor • May be prescribed for people for whom beta those unable to take beta blockers. Vasodilators isosorbide dinitrate, hydralazine BiDil, Apresoline • Relax and widen blood vessels. • Lower blood pressure. Vericiguat vericiguat Verquvo • Relaxes and widens blood vessels. • Lowers blood pressure. care team for additional information about your personal regimen. ACEi (angiotensin-converting enzyme inhibitors) and ARB (angiotensin receptor blockers) widen blood vessels, lower blood ARNI (angiotensin receptor-neprilysin inhibitors) are a drug combination of a neprilysin inhibitor and an ARB. (angiotensin receptor blocker) ARNI widen blood vessels, lower blood pressure, reduce sodium (salt) retention and decrease the Beta blockers may lower blood pressure, slow Mineralocorticoid receptor antagonists (MRA) are a type of diuretic that help eliminate extra salt and fluid. SGLTi (sodium-glucose cotransporter inhibitors) are diabetes medications that lower patients with or without diabetes. Blood thinners help prevent blood clots from forming. If a clot breaks off and gets stuck Cholesterol lowering agents reduce cholesterol in the blood. Diuretics help your body get rid of extra water and sodium to reduce the buildup of fluid in the lungs, ankles, legs and abdomen. Ivabradine (pacemaker channel inhibitor) blockers. Hydralazine (with or without nitrate) relaxes and widens blood vessels, lowers blood Vericiguat relaxes and widens blood vessels, workload. Oxygen therapy delivers concentrated oxygen to the lungs. This helps increase the amount of oxygen that can get into the blood. Oxygen therapy can improve shortness of breath and increase a person’s ability to be physically active. failure. Talk with your health care team for more information about your personal regimen. 38 39 Using Diuretics some side effects. One common side effect of most diuretics is potassium loss. The body needs potassium to you take a diuretic that causes you to lose potassium, you may be asked to increase the potassium in your diet."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::457",
+          "dense_score": 0.7685,
+          "rerank_score": 0.791,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            24,
+            25
+          ],
+          "text": "54 55 Loop diuretics Examples of loop diuretics include bumetanide and furosemide. Loop diuretics remove the build-up of fluid in the within one hour of taking them, and the excess fluid is usually removed within six to eight hours. Potassium-sparing diuretics Examples of potassium-sparing diuretics include eplerenone and spironolactone. Potassium-sparing diuretics are used to treat the failure. They should increase the output of water, but prevent too much potassium from being lost at the same time. This helps to maintain the balance of salts within the blood.",
+          "expanded_text": "54 55 Loop diuretics Examples of loop diuretics include bumetanide and furosemide. Loop diuretics remove the build-up of fluid in the within one hour of taking them, and the excess fluid is usually removed within six to eight hours. Potassium-sparing diuretics Examples of potassium-sparing diuretics include eplerenone and spironolactone. Potassium-sparing diuretics are used to treat the failure. They should increase the output of water, but prevent too much potassium from being lost at the same time. This helps to maintain the balance of salts within the blood."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::458",
+          "dense_score": 0.7633,
+          "rerank_score": 0.5249,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            25
+          ],
+          "text": "Thiazide diuretics Examples of thiazide diuretics include bendroflumethiazide and indapamide. Thiazide diuretics act within one to two hours of taking them, and the effects can last for up to 24 hours. Your doctor, pharmacist or nurse may have prescribed a low dose of thiazide diuretic to help lower your blood pressure. In higher doses, they’re Diuretics may put a strain on your kidneys and cause you to lose too much potassium or sodium.",
+          "expanded_text": "Thiazide diuretics Examples of thiazide diuretics include bendroflumethiazide and indapamide. Thiazide diuretics act within one to two hours of taking them, and the effects can last for up to 24 hours. Your doctor, pharmacist or nurse may have prescribed a low dose of thiazide diuretic to help lower your blood pressure. In higher doses, they’re Diuretics may put a strain on your kidneys and cause you to lose too much potassium or sodium."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::456",
+          "dense_score": 0.7884,
+          "rerank_score": 0.2645,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            24
+          ],
+          "text": "They help your kidneys get rid of excess fluid by making you pass more urine. Diuretics are valuable in treating the symptoms of have to work as hard to pump the blood around the body. Certain diuretics given at a lower dose can also help to lower blood pressure. If you’re taking a diuretic, it’s important to limit the amount of salt in your food, as it will counteract the effect of the diuretic. Don’t add salt to food – either during cooking or at the table – and try to avoid processed foods and ready meals, which contain a lot of salt. Also avoid salt substitutes. The three main types of diuretic are loop diuretics, potassium-sparing diuretics and thiazide diuretics. If you’re taking a diuretic, it’s important not to have too much salt in your food.",
+          "expanded_text": "They help your kidneys get rid of excess fluid by making you pass more urine. Diuretics are valuable in treating the symptoms of have to work as hard to pump the blood around the body. Certain diuretics given at a lower dose can also help to lower blood pressure. If you’re taking a diuretic, it’s important to limit the amount of salt in your food, as it will counteract the effect of the diuretic. Don’t add salt to food – either during cooking or at the table – and try to avoid processed foods and ready meals, which contain a lot of salt. Also avoid salt substitutes. The three main types of diuretic are loop diuretics, potassium-sparing diuretics and thiazide diuretics. If you’re taking a diuretic, it’s important not to have too much salt in your food."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "living-with-hf-guide.pdf:To get a better night’s sleep, try to::531",
+          "dense_score": 0.7191,
+          "rerank_score": 0.0343,
+          "source_file": "Living-With-HF-Guide.pdf",
+          "section_title": "To get a better night’s sleep, try to:",
+          "page_numbers": [
+            16
+          ],
+          "text": "• Use pillows to prop up your head to improve breathing. • Avoid naps and big meals right before bedtime. • Talk to your health care professional to see if you can time your diuretic use so that you’re less likely to wake up at night to urinate. This may mean taking diuretics in the morning. If sleep apnea is suspected, a sleep study may be recommended. If you do have sleep apnea, a continuous positive airway pressure (CPAP) machine may be recommended.",
+          "expanded_text": "• Use pillows to prop up your head to improve breathing. • Avoid naps and big meals right before bedtime. • Talk to your health care professional to see if you can time your diuretic use so that you’re less likely to wake up at night to urinate. This may mean taking diuretics in the morning. If sleep apnea is suspected, a sleep study may be recommended. If you do have sleep apnea, a continuous positive airway pressure (CPAP) machine may be recommended."
+        }
+      ]
+    },
+    {
+      "question": "What happens to the ductus arteriosus shunt direction after birth in patent ductus arteriosus?",
+      "keywords": [
+        "ductus arteriosus",
+        "shunt",
+        "pulmonary vascular resistance",
+        "left to right"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::155",
+          "dense_score": 0.7543,
+          "rerank_score": 0.891,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            115
+          ],
+          "text": "▪ Failure of ductus arteriosus to close; associated with prematurity and congenital rubella. ▪ In fetal period, shunt is right to left (normal). ▪ In neonatal period, ↓ pulmonary vascular resistance → shunt becomes left to right → progressive RVH and/or LVH and HF.",
+          "expanded_text": "▪ Failure of ductus arteriosus to close; associated with prematurity and congenital rubella. ▪ In fetal period, shunt is right to left (normal). ▪ In neonatal period, ↓ pulmonary vascular resistance → shunt becomes left to right → progressive RVH and/or LVH (left ventricular hypertrophy) and HF. (heart failure)"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Fetal-postnatal derivatives::12",
+          "dense_score": 0.7335,
+          "rerank_score": 0.8616,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Fetal-postnatal derivatives:",
+          "page_numbers": [
+            10
+          ],
+          "text": "▪ After the ductus arteriosus closes, it is referred to as the ligamentum arteriosum. ▪ lndomethacin (prostaglandin inhibitor) can be used to close a PDA, while PGE2 infusions can be used to maintain patency of this structure in cases of congenital heart disease requiring a patent left-to-right shunt in order to maintain oxygenation (Tetralogy of Fallot, Transposition). ▪ Prostaglandins E1 and E2 kEEp PDA open. ▪ Develop into arterial system. ▪ During embryonic development, the head, neck, and upper thorax region develop from a set of arches known as pharyngeal arches. ▪ Each arch is associated with a cranial nerve and an aortic arch.",
+          "expanded_text": "▪ After the ductus arteriosus closes, it is referred to as the ligamentum arteriosum. ▪ lndomethacin (prostaglandin inhibitor) can be used to close a PDA, (patent ductus arteriosus) while PGE2 infusions can be used to maintain patency of this structure in cases of congenital heart disease requiring a patent left-to-right shunt in order to maintain oxygenation (Tetralogy of Fallot, Transposition). ▪ Prostaglandins E1 and E2 kEEp PDA (patent ductus arteriosus) open. ▪ Develop into arterial system. ▪ During embryonic development, the head, neck, and upper thorax region develop from a set of arches known as pharyngeal arches. ▪ Each arch is associated with a cranial nerve and an aortic arch."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::160",
+          "dense_score": 0.7178,
+          "rerank_score": 0.561,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            116,
+            117
+          ],
+          "text": "- Severe aortic narrowing makes systemic blood flow dependent on the ductus arteriosus. As the ductus begins to close (normally around day 3 of life), infants may develop heart failure with tachypnea, poor feeding, fussiness, and lethargy. Patients are also at significant risk of shock, metabolic acidosis, and decreased renal perfusion (decreased urine output). - Uncorrected cases often don’t survive post-neonatal period. Coarctation of the aorta B.",
+          "expanded_text": "- Severe aortic narrowing makes systemic blood flow dependent on the ductus arteriosus. As the ductus begins to close (normally around day 3 of life), infants may develop heart failure with tachypnea, poor feeding, fussiness, and lethargy. Patients are also at significant risk of shock, metabolic acidosis, and decreased renal perfusion (decreased urine output). - Uncorrected cases often don’t survive post-neonatal period. Coarctation of the aorta B."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Continous murmurs::94",
+          "dense_score": 0.7141,
+          "rerank_score": 0.5397,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Continous murmurs:",
+          "page_numbers": [
+            72,
+            75,
+            76
+          ],
+          "text": "▪ Pulmonary vascular disease and ↑ pulmonary arterial pressure shunt reverses (right-to-left shunt- Eisenmenger syndrome) . Patent Ductus Arteriosus Bedside Maneuver Effect Inspiration (↑ venous return to right atrium) Expiration (↑ pulmonary blood flow to the left atrium) Rapid squatting (↑ venous return, ↑ preload, ↑ afterload) Supine position with leg elevated (↑ venous return, ↑ preload) ↑ intensity of most murmurs (↑ flow through stenotic or regurgitant valve) ↓ intensity of hypertrophic cardiomyopathy murmur MVP: later onset of click/murmur Valsalva (↓ preload), standing up (↓ preload), amyl nitrate (venodilator → ↓ preload) ↓ intensity of most murmurs (↓ flow through stenotic or regurgitant valve) ↑ intensity of hypertrophic cardiomyopathy murmur MVP: earlier onset of click/murmur Hand grip (↑ afterload) ↑ intensity of MR, AR, VSD murmurs ↓ hypertrophic cardiomyopathy murmurs MVP: later onset of click/murmur 1. Position of the patient affects the intensity of the murmur.",
+          "expanded_text": "▪ Pulmonary vascular disease and ↑ pulmonary arterial pressure shunt reverses (right-to-left shunt- Eisenmenger syndrome) . Patent Ductus Arteriosus Bedside Maneuver Effect Inspiration (↑ venous return to right atrium) Expiration (↑ pulmonary blood flow to the left atrium) Rapid squatting (↑ venous return, ↑ preload, ↑ afterload) Supine position with leg elevated (↑ venous return, ↑ preload) ↑ intensity of most murmurs (↑ flow through stenotic or regurgitant valve) ↓ intensity of hypertrophic cardiomyopathy murmur MVP: later onset of click/murmur Valsalva (↓ preload), standing up (↓ preload), amyl nitrate (venodilator → ↓ preload) ↓ intensity of most murmurs (↓ flow through stenotic or regurgitant valve) ↑ intensity of hypertrophic cardiomyopathy murmur MVP: earlier onset of click/murmur Hand grip (↑ afterload) ↑ intensity of MR, AR, VSD (ventricular septal defect) murmurs ↓ hypertrophic cardiomyopathy murmurs MVP: later onset of click/murmur 1. Position of the patient affects the intensity of the murmur."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:2. D-transposition of great vessels::147",
+          "dense_score": 0.6983,
+          "rerank_score": 0.1736,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "2. D-transposition of great vessels:",
+          "page_numbers": [
+            109
+          ],
+          "text": "As a result, deoxygenated blood coming from the body goes to the right atrium and ventricle and is cycled back to the body through the aorta. Oxygenated blood from the lungs is returned to the lungs by the left side of the heart through the pulmonary artery. ▪ Incompatible with life in the absence of an accompanying connection (patent foramen ovale, septal defect, or patent ductus arteriosus) to allow mixing of oxygenated pulmonary circulation blood with the ▪ An echocardiogram showing an aorta lying anterior to and to the right of the pulmonary artery is diagnostic of transposition of the great arteries (TGA). ▪ Chest x-ray will show an “egg on a string” due to narrow mediastinum. ▪ PGE can be administered to maintain a PDA until definitive surgical repair is performed. ▪ Without surgical intervention, most infants die within the first few months of life.",
+          "expanded_text": "As a result, deoxygenated blood coming from the body goes to the right atrium and ventricle and is cycled back to the body through the aorta. Oxygenated blood from the lungs is returned to the lungs by the left side of the heart through the pulmonary artery. ▪ Incompatible with life in the absence of an accompanying connection (patent foramen ovale, septal defect, or patent ductus arteriosus) to allow mixing of oxygenated pulmonary circulation blood with the ▪ An echocardiogram showing an aorta lying anterior to and to the right of the pulmonary artery is diagnostic of transposition of the great arteries (TGA). ▪ Chest x-ray will show an “egg on a string” due to narrow mediastinum. ▪ PGE can be administered to maintain a PDA (patent ductus arteriosus) until definitive surgical repair is performed. ▪ Without surgical intervention, most infants die within the first few months of life."
+        }
+      ]
+    },
+    {
+      "question": "How is patent ductus arteriosus treated pharmacologically, and what keeps it open when needed?",
+      "keywords": [
+        "indomethacin",
+        "PGE",
+        "patent ductus arteriosus",
+        "prostaglandin"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Fetal-postnatal derivatives::12",
+          "dense_score": 0.771,
+          "rerank_score": 0.7971,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Fetal-postnatal derivatives:",
+          "page_numbers": [
+            10
+          ],
+          "text": "▪ After the ductus arteriosus closes, it is referred to as the ligamentum arteriosum. ▪ lndomethacin (prostaglandin inhibitor) can be used to close a PDA, while PGE2 infusions can be used to maintain patency of this structure in cases of congenital heart disease requiring a patent left-to-right shunt in order to maintain oxygenation (Tetralogy of Fallot, Transposition). ▪ Prostaglandins E1 and E2 kEEp PDA open. ▪ Develop into arterial system. ▪ During embryonic development, the head, neck, and upper thorax region develop from a set of arches known as pharyngeal arches. ▪ Each arch is associated with a cranial nerve and an aortic arch.",
+          "expanded_text": "▪ After the ductus arteriosus closes, it is referred to as the ligamentum arteriosum. ▪ lndomethacin (prostaglandin inhibitor) can be used to close a PDA, (patent ductus arteriosus) while PGE2 infusions can be used to maintain patency of this structure in cases of congenital heart disease requiring a patent left-to-right shunt in order to maintain oxygenation (Tetralogy of Fallot, Transposition). ▪ Prostaglandins E1 and E2 kEEp PDA (patent ductus arteriosus) open. ▪ Develop into arterial system. ▪ During embryonic development, the head, neck, and upper thorax region develop from a set of arches known as pharyngeal arches. ▪ Each arch is associated with a cranial nerve and an aortic arch."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::156",
+          "dense_score": 0.6891,
+          "rerank_score": 0.4671,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            115
+          ],
+          "text": "▪ “Continuous machinery-like” murmur. A patent ductus arteriosus (PDA) is associated with a continuous flow murmur due to constant movement of blood from the high-pressure aorta to the low-pressure pulmonary artery. Small PDAs are often asymptomatic and detected incidentally on routine cardiac auscultation.",
+          "expanded_text": "▪ “Continuous machinery-like” murmur. A patent ductus arteriosus (PDA) is associated with a continuous flow murmur due to constant movement of blood from the high-pressure aorta to the low-pressure pulmonary artery. Small PDAs are often asymptomatic and detected incidentally on routine cardiac auscultation."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:2. D-transposition of great vessels::147",
+          "dense_score": 0.6693,
+          "rerank_score": 0.2174,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "2. D-transposition of great vessels:",
+          "page_numbers": [
+            109
+          ],
+          "text": "As a result, deoxygenated blood coming from the body goes to the right atrium and ventricle and is cycled back to the body through the aorta. Oxygenated blood from the lungs is returned to the lungs by the left side of the heart through the pulmonary artery. ▪ Incompatible with life in the absence of an accompanying connection (patent foramen ovale, septal defect, or patent ductus arteriosus) to allow mixing of oxygenated pulmonary circulation blood with the ▪ An echocardiogram showing an aorta lying anterior to and to the right of the pulmonary artery is diagnostic of transposition of the great arteries (TGA). ▪ Chest x-ray will show an “egg on a string” due to narrow mediastinum. ▪ PGE can be administered to maintain a PDA until definitive surgical repair is performed. ▪ Without surgical intervention, most infants die within the first few months of life.",
+          "expanded_text": "As a result, deoxygenated blood coming from the body goes to the right atrium and ventricle and is cycled back to the body through the aorta. Oxygenated blood from the lungs is returned to the lungs by the left side of the heart through the pulmonary artery. ▪ Incompatible with life in the absence of an accompanying connection (patent foramen ovale, septal defect, or patent ductus arteriosus) to allow mixing of oxygenated pulmonary circulation blood with the ▪ An echocardiogram showing an aorta lying anterior to and to the right of the pulmonary artery is diagnostic of transposition of the great arteries (TGA). ▪ Chest x-ray will show an “egg on a string” due to narrow mediastinum. ▪ PGE can be administered to maintain a PDA (patent ductus arteriosus) until definitive surgical repair is performed. ▪ Without surgical intervention, most infants die within the first few months of life."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::158",
+          "dense_score": 0.7122,
+          "rerank_score": 0.0767,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            115,
+            116
+          ],
+          "text": "▪ Therapy with indomethacin successfully closes this defect in the majority of patients. ▪ “Endomethacin” (indomethacin) ends patency of PDA; PGE keeps ductus Going (may be necessary to sustain life in conditions such as transposition of the great vessels). ▪ Narrowing of the aorta; classically divided into infantile and adult forms: A. Infantile form (Preductal): - Coarctation of the aorta results from thickening of the tunica media near the junction of ductus arteriosus and the aortic arch. Luminal narrowing causes a mechanical obstruction to aortic blood flow. - It is associated with a PDA; coarctation lies after (distal to) the aortic arch, but before (proximal to) the PDA.",
+          "expanded_text": "▪ Therapy with indomethacin successfully closes this defect in the majority of patients. ▪ “Endomethacin” (indomethacin) ends patency of PDA; (patent ductus arteriosus) PGE keeps ductus Going (may be necessary to sustain life in conditions such as transposition of the great vessels). ▪ Narrowing of the aorta; classically divided into infantile and adult forms: A. Infantile form (Preductal): - Coarctation of the aorta results from thickening of the tunica media near the junction of ductus arteriosus and the aortic arch. Luminal narrowing causes a mechanical obstruction to aortic blood flow. - It is associated with a PDA; (patent ductus arteriosus) coarctation lies after (distal to) the aortic arch, but before (proximal to) the PDA. (patent ductus arteriosus)"
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::160",
+          "dense_score": 0.6589,
+          "rerank_score": 0.0144,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            116,
+            117
+          ],
+          "text": "- Severe aortic narrowing makes systemic blood flow dependent on the ductus arteriosus. As the ductus begins to close (normally around day 3 of life), infants may develop heart failure with tachypnea, poor feeding, fussiness, and lethargy. Patients are also at significant risk of shock, metabolic acidosis, and decreased renal perfusion (decreased urine output). - Uncorrected cases often don’t survive post-neonatal period. Coarctation of the aorta B.",
+          "expanded_text": "- Severe aortic narrowing makes systemic blood flow dependent on the ductus arteriosus. As the ductus begins to close (normally around day 3 of life), infants may develop heart failure with tachypnea, poor feeding, fussiness, and lethargy. Patients are also at significant risk of shock, metabolic acidosis, and decreased renal perfusion (decreased urine output). - Uncorrected cases often don’t survive post-neonatal period. Coarctation of the aorta B."
+        }
+      ]
+    },
+    {
+      "question": "What causes the infantile (preductal) form of aortic coarctation?",
+      "keywords": [
+        "coarctation",
+        "aorta",
+        "tunica media",
+        "ductus arteriosus",
+        "preductal"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::158",
+          "dense_score": 0.7466,
+          "rerank_score": 0.9624,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            115,
+            116
+          ],
+          "text": "▪ Therapy with indomethacin successfully closes this defect in the majority of patients. ▪ “Endomethacin” (indomethacin) ends patency of PDA; PGE keeps ductus Going (may be necessary to sustain life in conditions such as transposition of the great vessels). ▪ Narrowing of the aorta; classically divided into infantile and adult forms: A. Infantile form (Preductal): - Coarctation of the aorta results from thickening of the tunica media near the junction of ductus arteriosus and the aortic arch. Luminal narrowing causes a mechanical obstruction to aortic blood flow. - It is associated with a PDA; coarctation lies after (distal to) the aortic arch, but before (proximal to) the PDA.",
+          "expanded_text": "▪ Therapy with indomethacin successfully closes this defect in the majority of patients. ▪ “Endomethacin” (indomethacin) ends patency of PDA; (patent ductus arteriosus) PGE keeps ductus Going (may be necessary to sustain life in conditions such as transposition of the great vessels). ▪ Narrowing of the aorta; classically divided into infantile and adult forms: A. Infantile form (Preductal): - Coarctation of the aorta results from thickening of the tunica media near the junction of ductus arteriosus and the aortic arch. Luminal narrowing causes a mechanical obstruction to aortic blood flow. - It is associated with a PDA; (patent ductus arteriosus) coarctation lies after (distal to) the aortic arch, but before (proximal to) the PDA. (patent ductus arteriosus)"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::161",
+          "dense_score": 0.7663,
+          "rerank_score": 0.2988,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            117
+          ],
+          "text": "Adult form (Postductal): - Not associated with a PDA; coarctation lies after (distal to) the aortic arch and ligamentum arteriosum. - Presents as hypertension in the upper extremities and hypotension with weak pulses in the lower extremities (brachial-femoral delay); classically discovered in adulthood. - Headaches and epistaxis may be caused by hypertension in the arteries supplying the head and neck. - Chest x-ray usually demonstrates inferior notching of the third to eighth ribs.",
+          "expanded_text": "Adult form (Postductal): - Not associated with a PDA; (patent ductus arteriosus) coarctation lies after (distal to) the aortic arch and ligamentum arteriosum. - Presents as hypertension in the upper extremities and hypotension with weak pulses in the lower extremities (brachial-femoral delay); classically discovered in adulthood. - Headaches and epistaxis may be caused by hypertension in the arteries supplying the head and neck. - Chest x-ray usually demonstrates inferior notching of the third to eighth ribs."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::160",
+          "dense_score": 0.7241,
+          "rerank_score": 0.2276,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            116,
+            117
+          ],
+          "text": "- Severe aortic narrowing makes systemic blood flow dependent on the ductus arteriosus. As the ductus begins to close (normally around day 3 of life), infants may develop heart failure with tachypnea, poor feeding, fussiness, and lethargy. Patients are also at significant risk of shock, metabolic acidosis, and decreased renal perfusion (decreased urine output). - Uncorrected cases often don’t survive post-neonatal period. Coarctation of the aorta B.",
+          "expanded_text": "- Severe aortic narrowing makes systemic blood flow dependent on the ductus arteriosus. As the ductus begins to close (normally around day 3 of life), infants may develop heart failure with tachypnea, poor feeding, fussiness, and lethargy. Patients are also at significant risk of shock, metabolic acidosis, and decreased renal perfusion (decreased urine output). - Uncorrected cases often don’t survive post-neonatal period. Coarctation of the aorta B."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Patent ductus arteriosus::162",
+          "dense_score": 0.7328,
+          "rerank_score": 0.0808,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Patent ductus arteriosus:",
+          "page_numbers": [
+            117
+          ],
+          "text": "With age, Collateral circulation develops across the intercostal arteries; engorged arteries cause 'notching' of ribs on x-ray. - The triad of upper body hypertension, diminished lower extremity pulses, and enlarged intercostal artery collaterals is typical of adult-type coarctation and is not seen in other congenital cardiovascular malformations. - Patients with adult-type coarctation of the aorta commonly die of hypertension-associated complications, including left ventricular failure, ruptured dissecting aortic aneurysm, and intracranial hemorrhage.",
+          "expanded_text": "With age, Collateral circulation develops across the intercostal arteries; engorged arteries cause 'notching' of ribs on x-ray. - The triad of upper body hypertension, diminished lower extremity pulses, and enlarged intercostal artery collaterals is typical of adult-type coarctation and is not seen in other congenital cardiovascular malformations. - Patients with adult-type coarctation of the aorta commonly die of hypertension-associated complications, including left ventricular failure, ruptured dissecting aortic aneurysm, and intracranial hemorrhage."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:1. Systolic murmurs::80",
+          "dense_score": 0.7275,
+          "rerank_score": 0.0182,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "1. Systolic murmurs:",
+          "page_numbers": [
+            62,
+            63
+          ],
+          "text": "2. Bicuspid aortic valves (right and left aortic cusp fusion) occur in approximately 1%-2% of live births, ▪ The abnormally shaped valve experiences increased hemodynamic stress, which accelerates the normal aging process and causes premature atherosclerosis and calcification of the aortic valve. ▪ These deposits begin accumulating as early as adolescence and lead to aortic stenosis in >50% of affected patients . ▪ Symptomatic aortic stenosis develops on average around age 50 (10 years earlier than the average onset of senile calcific aortic stenosis in patients with normal aortic valves). 3.",
+          "expanded_text": "2. Bicuspid aortic valves (right and left aortic cusp fusion) occur in approximately 1%-2% of live births, ▪ The abnormally shaped valve experiences increased hemodynamic stress, which accelerates the normal aging process and causes premature atherosclerosis and calcification of the aortic valve. ▪ These deposits begin accumulating as early as adolescence and lead to aortic stenosis in >50% of affected patients . ▪ Symptomatic aortic stenosis develops on average around age 50 (10 years earlier than the average onset of senile calcific aortic stenosis in patients with normal aortic valves). 3."
+        }
+      ]
+    },
+    {
+      "question": "What class Ic antiarrhythmic effect do these drugs have on the cardiac action potential?",
+      "keywords": [
+        "class Ic",
+        "action potential",
+        "conduction",
+        "tachycardia"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:❖ Flecainide::323",
+          "dense_score": 0.7411,
+          "rerank_score": 0.9742,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "❖ Flecainide:",
+          "page_numbers": [
+            220,
+            221
+          ],
+          "text": "▪ Clinical use: - Only as a last resort in refractory VT. - Limited use because of proarrhythmogenic effects, leading to ↑ in sudden death post-MI and when used prophylactically in VT. ▪ Adverse effects: - Proarrhythmic, especially post-MI (contraindicated). ▪ Class I antiarrhythmic drugs preferentially bind to and block activated and inactivated voltage-gated sodium channels in cardiac pacemaker cells and myocytes. ▪ Dissociation of the drug from the channel occurs during the resting state, a conformational state distinct from the inactivated state that occurs following repolarization. depolarization become more susceptible to blockage.",
+          "expanded_text": "▪ Clinical use: - Only as a last resort in refractory VT. (ventricular tachycardia) - Limited use because of proarrhythmogenic effects, leading to ↑ in sudden death post-MI and when used prophylactically in VT. (ventricular tachycardia) ▪ Adverse effects: - Proarrhythmic, especially post-MI (contraindicated). ▪ Class I antiarrhythmic drugs preferentially bind to and block activated and inactivated voltage-gated sodium channels in cardiac pacemaker cells and myocytes. ▪ Dissociation of the drug from the channel occurs during the resting state, a conformational state distinct from the inactivated state that occurs following repolarization. depolarization become more susceptible to blockage."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Class 1C::322",
+          "dense_score": 0.7382,
+          "rerank_score": 0.8433,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Class 1C:",
+          "page_numbers": [
+            219,
+            220
+          ],
+          "text": "- Class 1C drugs are the slowest of the class 1 agents to dissociate from the sodium channel. - This results in a phenomenon known as use-dependence, in which their sodium blocking effects intensify as the heart rate increases due to less time between action potentials for the medication to dissociate from the receptor. Chapter 5 Pharmacology ▪ Drugs: Flecainide and propafenone.",
+          "expanded_text": "- Class 1C drugs are the slowest of the class 1 agents to dissociate from the sodium channel. - This results in a phenomenon known as use-dependence, in which their sodium blocking effects intensify as the heart rate increases due to less time between action potentials for the medication to dissociate from the receptor. Chapter 5 Pharmacology ▪ Drugs: Flecainide and propafenone."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:2. Class 1B::319",
+          "dense_score": 0.766,
+          "rerank_score": 0.7542,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "2. Class 1B:",
+          "page_numbers": [
+            219
+          ],
+          "text": "▪ Mechanism of action: - Weak Na channel blockade - Shortening of APD. ▪ Drugs: - Lidocaine (also a local anesthetic), Mexiletine. - Phenytoin can also fall into the IB category. ▪ Clinical use: - Class 1B antiarrhythmics are useful for treating ischemia-induced ventricular arrhythmias, one of the most common causes of death in the short term following acute myocardial infarction, digitalis-induced arrhythmias. - IB is Best post-MI. A. Lidocaine: ▪ Side effects: CNS toxicity (seizures); least cardiotoxic of conventional anti-arrhythmics. ▪ IV use because of first-pass metabolism. B. Mexiletine: ▪ Same uses as lidocaine. ▪ Oral formulations.",
+          "expanded_text": "▪ Mechanism of action: - Weak Na channel blockade - Shortening of APD. ▪ Drugs: - Lidocaine (also a local anesthetic), Mexiletine. - Phenytoin can also fall into the IB category. ▪ Clinical use: - Class 1B antiarrhythmics are useful for treating ischemia-induced ventricular arrhythmias, one of the most common causes of death in the short term following acute myocardial infarction, digitalis-induced arrhythmias. - IB is Best post-MI. A. Lidocaine: ▪ Side effects: CNS toxicity (seizures); least cardiotoxic of conventional anti-arrhythmics. ▪ IV use because of first-pass metabolism. B. Mexiletine: ▪ Same uses as lidocaine. ▪ Oral formulations."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:3. Class 1C::321",
+          "dense_score": 0.7796,
+          "rerank_score": 0.7257,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "3. Class 1C:",
+          "page_numbers": [
+            219
+          ],
+          "text": "▪ Mechanism of action: - Strong Na channel blockade. - Class 1C antiarrhythmics bind avidly to the fast sodium channels responsible for phase 0 depolarization, blocking the inward sodium current and prolonging the QRS duration. - NO effect on AP duration.",
+          "expanded_text": "▪ Mechanism of action: - Strong Na channel blockade. - Class 1C antiarrhythmics bind avidly to the fast sodium channels responsible for phase 0 depolarization, blocking the inward sodium current and prolonging the QRS duration. - NO effect on AP duration."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:❖ Flecainide::328",
+          "dense_score": 0.7552,
+          "rerank_score": 0.0473,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "❖ Flecainide:",
+          "page_numbers": [
+            225
+          ],
+          "text": "- These drugs exert their primary action by blocking the L-type calcium channels, thereby decreasing phase 0, phase 4 and conduction velocity in the sinoatrial and AV nodes. - This leads to slowing of the sinus rate and conduction through the AV node. ▪ Drugs: Verapamil and diltiazem.",
+          "expanded_text": "- These drugs exert their primary action by blocking the L-type calcium channels, thereby decreasing phase 0, phase 4 and conduction velocity in the sinoatrial and AV nodes. - This leads to slowing of the sinus rate and conduction through the AV node. ▪ Drugs: Verapamil and diltiazem."
+        }
+      ]
+    },
+    {
+      "question": "How does ezetimibe lower LDL cholesterol and what are its side effects?",
+      "keywords": [
+        "cholesterol absorption",
+        "LDL",
+        "side effect",
+        "gastrointestinal",
+        "LFTs"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Contraindication::314",
+          "dense_score": 0.6887,
+          "rerank_score": 0.9942,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Contraindication:",
+          "page_numbers": [
+            215,
+            216
+          ],
+          "text": "▪ Side effect: gastrointestinal upset, Rare ↑ LFTs. ▪ Mechanism of action: - Inactivation of LDL-receptor degradation → ↑ removal of LDL from bloodstream ▪ Side effects: - Myalgias, delirium, dementia, other neurocognitive effects Ezetimibe Niacin PCSK9 inhibitors Chapter 5 Pharmacology ▪ Mechanism of action: - ↓ VLDL synthesis and Apoproteins B sysnthesis → ↓ TGs. ▪ Side effects: Nausea, fish-like taste.",
+          "expanded_text": "▪ Side effect: gastrointestinal upset, Rare ↑ LFTs. ▪ Mechanism of action: - Inactivation of LDL-receptor degradation → ↑ removal of LDL from bloodstream ▪ Side effects: - Myalgias, delirium, dementia, other neurocognitive effects Ezetimibe Niacin PCSK9 inhibitors Chapter 5 Pharmacology ▪ Mechanism of action: - ↓ VLDL synthesis and Apoproteins B sysnthesis → ↓ TGs. ▪ Side effects: Nausea, fish-like taste."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::453",
+          "dense_score": 0.727,
+          "rerank_score": 0.9725,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            22
+          ],
+          "text": "It’s possible to take a fibrate and a statin together, but this must be carried out under strict medical supervision. • Nicotinic acid medicines help to lower non-HDL cholesterol, and increase HDL cholesterol. They may not be suitable if you have diabetes, unstable • Ezetimibe helps to lower blood cholestero l b y preventing it from being absorbed into the small intestine. It can help reduce non-HDL cholesterol and, with a low-dose statin, can be even more effective. The side effects of all cholesterol-lowering medicines, including statins, are: • tiredness • disturbed sleep • feeling sick • vomiting • diarrhoea • headache • and muscle weakness . A r are side effect is inflammation of the muscles (myositis). If you have any unexpected muscle pain, tenderness or weakness, you should tell your doctor immediately.",
+          "expanded_text": "It’s possible to take a fibrate and a statin together, but this must be carried out under strict medical supervision. • Nicotinic acid medicines help to lower non-HDL cholesterol, and increase HDL cholesterol. They may not be suitable if you have diabetes, unstable • Ezetimibe helps to lower blood cholestero l b y preventing it from being absorbed into the small intestine. It can help reduce non-HDL cholesterol and, with a low-dose statin, can be even more effective. The side effects of all cholesterol-lowering medicines, including statins, are: • tiredness • disturbed sleep • feeling sick • vomiting • diarrhoea • headache • and muscle weakness . A r are side effect is inflammation of the muscles (myositis). If you have any unexpected muscle pain, tenderness or weakness, you should tell your doctor immediately."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::451",
+          "dense_score": 0.6985,
+          "rerank_score": 0.4684,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            20
+          ],
+          "text": "Cholesterol-lowering medicines (lipid-lowering medicines) Examples of cholesterol-lowering medicines include atorvastatin, ezetimibe and simvastatin. ‘ Blood lipids’ is the name for the fatty substances found in the blood, this includes non-HDL cholesterol (the ‘bad’ type), HDL cholesterol (the ‘good’ type) and triglycerides. Cholesterol-lowering medicines lower the amount of cholesterol in your blood, particularly the ‘bad’ type. They’re given to those who are risk prescribed cholesterol-lowering medicine even if their cholesterol level is normal.",
+          "expanded_text": "Cholesterol-lowering medicines (lipid-lowering medicines) Examples of cholesterol-lowering medicines include atorvastatin, ezetimibe and simvastatin. ‘ Blood lipids’ is the name for the fatty substances found in the blood, this includes non-HDL cholesterol (the ‘bad’ type), HDL cholesterol (the ‘good’ type) and triglycerides. Cholesterol-lowering medicines lower the amount of cholesterol in your blood, particularly the ‘bad’ type. They’re given to those who are risk prescribed cholesterol-lowering medicine even if their cholesterol level is normal."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Mechanism of action ::307",
+          "dense_score": 0.679,
+          "rerank_score": 0.028,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Mechanism of action :",
+          "page_numbers": [
+            212
+          ],
+          "text": "- ↓ VLDL synthesis results in → ↓ triglyceridemia. ▪ Clinical uses: - Statins are the most effective lipid-lowering drugs for primary and secondary prevention of cardiovascular events, regardless of baseline lipid levels. - Statins are commonly prescribed for patients who have suffered a myocardial infarction because they have been shown to significantly decrease both the incidence of a second myocardial infarction and mortality in these patients. - These benefits are due to statins' cholesterol lowering effects, as well as to statins' direct ability to stabilize atheromatous plaques. ▪ Side effects : - Myalgia, myopathy and myositis (check creatine kinase).",
+          "expanded_text": "- ↓ VLDL synthesis results in → ↓ triglyceridemia. ▪ Clinical uses: - Statins are the most effective lipid-lowering drugs for primary and secondary prevention of cardiovascular events, regardless of baseline lipid levels. - Statins are commonly prescribed for patients who have suffered a myocardial infarction because they have been shown to significantly decrease both the incidence of a second myocardial infarction and mortality in these patients. - These benefits are due to statins' cholesterol lowering effects, as well as to statins' direct ability to stabilize atheromatous plaques. ▪ Side effects : - Myalgia, myopathy and myositis (check creatine kinase)."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Mechanism of action ::306",
+          "dense_score": 0.7081,
+          "rerank_score": 0.0072,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Mechanism of action :",
+          "page_numbers": [
+            212
+          ],
+          "text": "- Statins are the first-line therapy for most patients with hypercholesterolemia. - These drugs competitively inhibit HMG CoA reductase, the enzyme responsible for the conversion of HMG CoA to mevalonate (the rate limiting step in hepatic cholesterol synthesis). - This inhibition decreases hepatic cholesterol synthesis.",
+          "expanded_text": "- Statins are the first-line therapy for most patients with hypercholesterolemia. - These drugs competitively inhibit HMG CoA reductase, the enzyme responsible for the conversion of HMG CoA to mevalonate (the rate limiting step in hepatic cholesterol synthesis). - This inhibition decreases hepatic cholesterol synthesis."
+        }
+      ]
+    },
+    {
+      "question": "Why is medication adherence important for heart failure patients?",
+      "keywords": [
+        "medication adherence",
+        "heart failure",
+        "prescriptions",
+        "health care team"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "living-with-hf-guide.pdf:MEDICATIONS COMMONLY USED:539",
+          "dense_score": 0.7823,
+          "rerank_score": 0.9569,
+          "source_file": "Living-With-HF-Guide.pdf",
+          "section_title": "MEDICATIONS COMMONLY USED",
+          "page_numbers": [
+            19
+          ],
+          "text": "Medications list. It may include one or more medications prescribed by your health care team. Use this list to better understand your medications. The following list of medications may include one or more prescriptions from your health care team. Medication adherence is important to treat heart failure.",
+          "expanded_text": "Medications list. It may include one or more medications prescribed by your health care team. Use this list to better understand your medications. The following list of medications may include one or more prescriptions from your health care team. Medication adherence is important to treat heart failure."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:❖ Use of Antihypertensive Drugs in Comorbid Conditions::285",
+          "dense_score": 0.6682,
+          "rerank_score": 0.1985,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "❖ Use of Antihypertensive Drugs in Comorbid Conditions:",
+          "page_numbers": [
+            198
+          ],
+          "text": "In patients with hypertension and chronic ischemic myocardial failure, ACE inhibitors are considered to be the most effective long-term treatment option, as they inhibit myocardial remodeling and the associated deterioration of ventricular contractile function, in addition to reducing blood pressure. ▪ A beta-blocker would also be beneficial for these patients. 5.",
+          "expanded_text": "In patients with hypertension and chronic ischemic myocardial failure, ACE inhibitors are considered to be the most effective long-term treatment option, as they inhibit myocardial remodeling and the associated deterioration of ventricular contractile function, in addition to reducing blood pressure. ▪ A beta-blocker would also be beneficial for these patients. 5."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Drug interactions ::304",
+          "dense_score": 0.6582,
+          "rerank_score": 0.0419,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Drug interactions :",
+          "page_numbers": [
+            209
+          ],
+          "text": "2. After initial stabilization, long-term use of beta blockers (carvedilol, metoprolol) has been shown to improve survival in patients with HF due to left ventricular systolic dysfunction . ▪ Beta blockade decreases myocardial work and oxygen demand by slowing the ventricular rate and reducing contractility.",
+          "expanded_text": "2. After initial stabilization, long-term use of beta blockers (carvedilol, metoprolol) has been shown to improve survival in patients with HF (heart failure) due to left ventricular systolic dysfunction . ▪ Beta blockade decreases myocardial work and oxygen demand by slowing the ventricular rate and reducing contractility."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:❖ Use of Antihypertensive Drugs in Comorbid Conditions::283",
+          "dense_score": 0.6505,
+          "rerank_score": 0.0294,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "❖ Use of Antihypertensive Drugs in Comorbid Conditions:",
+          "page_numbers": [
+            197
+          ],
+          "text": "▪ In medical practice, patients are often prescribed so many medications that they have trouble keeping track of them. ▪ In order to give them an opportunity for best compliance with your medical treatment, it is desirable to effects of certain drugs on the body. Drugs Notes Primary (essential) hypertension Thiazide diuretics, ACE inhibitors, angiotensin II receptor blockers (ARBs), dihydropyridine Ca channel blockers. failure Diuretics, ACE inhibitors/ARBs, β-blockers (compensated HF), aldosterone antagonists. β-blockers must be used cautiously in decompensated HF and are contraindicated in cardiogenic shock. In HF, ARBs may be combined with the neprilysin inhibitor sacubitril. Hypertension with diabetes mellitus ACE inhibitors/ARBs, Ca channel blockers, thiazide diuretics, β-blockers. ACE inhibitors/ARBs are protective against diabetic nephropathy. β-blockers can mask hypoglycemia symptoms. Hypertension in asthma ARBs, Ca channel blockers, thiazide diuretics, cardioselective β-blockers. Avoid nonselective β-blockers to prevent β2-receptor-induced bronchoconstriction . Avoid ACE inhibitors to prevent confusion between drug or asthma-related cough. Hypertension in pregnancy Hydralazine, labetalol, methyldopa, nifedipine. “He likes my neonate” Hypertensive emergency Clevidipine, nicardipine, fenoldopam, labetalol, nitroprusside. 1.",
+          "expanded_text": "▪ In medical practice, patients are often prescribed so many medications that they have trouble keeping track of them. ▪ In order to give them an opportunity for best compliance with your medical treatment, it is desirable to effects of certain drugs on the body. Drugs Notes Primary (essential) hypertension Thiazide diuretics, ACE inhibitors, angiotensin II receptor blockers (ARBs), dihydropyridine Ca channel blockers. failure Diuretics, ACE inhibitors/ARBs, β-blockers (compensated HF), (heart failure) aldosterone antagonists. β-blockers must be used cautiously in decompensated HF (heart failure) and are contraindicated in cardiogenic shock. In HF, (heart failure) ARBs may be combined with the neprilysin inhibitor sacubitril. Hypertension with diabetes mellitus ACE inhibitors/ARBs, Ca channel blockers, thiazide diuretics, β-blockers. ACE inhibitors/ARBs are protective against diabetic nephropathy. β-blockers can mask hypoglycemia symptoms. Hypertension in asthma ARBs, Ca channel blockers, thiazide diuretics, cardioselective β-blockers. Avoid nonselective β-blockers to prevent β2-receptor-induced bronchoconstriction . Avoid ACE inhibitors to prevent confusion between drug or asthma-related cough. Hypertension in pregnancy Hydralazine, labetalol, methyldopa, nifedipine. “He likes my neonate” Hypertensive emergency Clevidipine, nicardipine, fenoldopam, labetalol, nitroprusside. 1."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:General Context:415",
+          "dense_score": 0.6601,
+          "rerank_score": 0.0014,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "General Context",
+          "page_numbers": [
+            4
+          ],
+          "text": "Most medicines need to be taken regularly, as prescribed by your doctor, pharmacist or nurse. Some medicines need to be taken only when you get a particular symptom, such as angina. Why should I take my medicines? Your medicine has been prescribed for you because your doctor believes it will help to treat an existing",
+          "expanded_text": "Most medicines need to be taken regularly, as prescribed by your doctor, pharmacist or nurse. Some medicines need to be taken only when you get a particular symptom, such as angina. Why should I take my medicines? Your medicine has been prescribed for you because your doctor believes it will help to treat an existing"
+        }
+      ]
+    },
+    {
+      "question": "What are antiplatelet medicines used for and who should avoid them?",
+      "keywords": [
+        "antiplatelet",
+        "high risk",
+        "recommended",
+        "treatment"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::444",
+          "dense_score": 0.7374,
+          "rerank_score": 0.8822,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            16,
+            17
+          ],
+          "text": "I’ve felt much better since and haven’t had another spasm. Taking the right amount of medicine – as well as eating healthy, stopping smoking and reducing my stress – has helped me feel better, both emotionally and physically.” 36 37 Antiplatelet medicines Examples of antiplatelet medicine include aspirin, clopidogrel, prasugrel and ticagrelor. Antiplatelet medicines reduce the risk of clots forming. Aspirin Aspirin helps to prevent the blood from clotting.",
+          "expanded_text": "I’ve felt much better since and haven’t had another spasm. Taking the right amount of medicine – as well as eating healthy, stopping smoking and reducing my stress – has helped me feel better, both emotionally and physically.” 36 37 Antiplatelet medicines Examples of antiplatelet medicine include aspirin, clopidogrel, prasugrel and ticagrelor. Antiplatelet medicines reduce the risk of clots forming. Aspirin Aspirin helps to prevent the blood from clotting."
+        },
+        {
+          "rank": 2,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::447",
+          "dense_score": 0.7518,
+          "rerank_score": 0.5486,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17,
+            18
+          ],
+          "text": "You may be given this alongside aspirin, instead of clopidogrel or prasugrel. 38 39 Antiplatelet medicines can cause stomach aches, nausea and vomiting. To help prevent these side effects, always take the medicine after a meal. More seriously, antiplatelet medicines can lead to, or worsen, bleeding from the stomach. To help prevent this, your doctor may also prescribe a medicine to reduce the acid your stomach produces. This makes it less likely that the antiplatelet medicine will cause irritation.",
+          "expanded_text": "You may be given this alongside aspirin, instead of clopidogrel or prasugrel. 38 39 Antiplatelet medicines can cause stomach aches, nausea and vomiting. To help prevent these side effects, always take the medicine after a meal. More seriously, antiplatelet medicines can lead to, or worsen, bleeding from the stomach. To help prevent this, your doctor may also prescribe a medicine to reduce the acid your stomach produces. This makes it less likely that the antiplatelet medicine will cause irritation."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::448",
+          "dense_score": 0.709,
+          "rerank_score": 0.3694,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            18
+          ],
+          "text": "On rare occasions, aspirin can bring on an asthma attack. People taking antiplatelet medicines are more likely to show bruising if they injure themselves, but this bruising will resolve in time. Ticagrelor can be associated with the increased shortness of breath. It’s important that anyone who experiences such symptoms seeks medical attention. For more information on antiplatelet medicines, visit bhf.org.uk/medicinecabinet Treatment with antiplatelet medicines isn’t recommended for people who don’t have aren’t at high risk of developing them.",
+          "expanded_text": "On rare occasions, aspirin can bring on an asthma attack. People taking antiplatelet medicines are more likely to show bruising if they injure themselves, but this bruising will resolve in time. Ticagrelor can be associated with the increased shortness of breath. It’s important that anyone who experiences such symptoms seeks medical attention. For more information on antiplatelet medicines, visit bhf.org.uk/medicinecabinet Treatment with antiplatelet medicines isn’t recommended for people who don’t have aren’t at high risk of developing them."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "his17_medicines_0817_a4_removed.pdf:You should understand::446",
+          "dense_score": 0.7704,
+          "rerank_score": 0.3048,
+          "source_file": "his17_medicines_0817_a4_removed.pdf",
+          "section_title": "You should understand:",
+          "page_numbers": [
+            17
+          ],
+          "text": "While aspirin can be used to treat most people with known coronary at preventing strokes in people who have been diagnosed with atrial fibrillation. Clopidogrel Clopidogrel is another antiplatelet medicine. It’s sometimes given alongside aspirin, but usually only for a set period of time. It’s useful for people with unstable angina, or for those who have recently had a coronary angioplasty with stenting (a procedure that helps to keep a narrowed coronary artery open). Sometimes, clopidogrel is prescribed to people who can’t tolerate aspirin. There are other medicines in the same group as clopidogrel – prasugrel and ticagrelor – that offer similar benefits . T hese need to be prescribed by a specialist. Prasugrel Prasugrel is a platelet inhibitor. This means it stops platelets clumping together and forming a blood clot. You may be given prasugrel along with aspirin, and instead of clopidogrel. Ticagrelor Ticagrelor is also a platelet inhibitor.",
+          "expanded_text": "While aspirin can be used to treat most people with known coronary at preventing strokes in people who have been diagnosed with atrial fibrillation. Clopidogrel Clopidogrel is another antiplatelet medicine. It’s sometimes given alongside aspirin, but usually only for a set period of time. It’s useful for people with unstable angina, or for those who have recently had a coronary angioplasty with stenting (a procedure that helps to keep a narrowed coronary artery open). Sometimes, clopidogrel is prescribed to people who can’t tolerate aspirin. There are other medicines in the same group as clopidogrel – prasugrel and ticagrelor – that offer similar benefits . T hese need to be prescribed by a specialist. Prasugrel Prasugrel is a platelet inhibitor. This means it stops platelets clumping together and forming a blood clot. You may be given prasugrel along with aspirin, and instead of clopidogrel. Ticagrelor Ticagrelor is also a platelet inhibitor."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "cureus-0016-00000054264.pdf:Risk factors:378",
+          "dense_score": 0.713,
+          "rerank_score": 0.2468,
+          "source_file": "cureus-0016-00000054264.pdf",
+          "section_title": "Risk factors",
+          "page_numbers": [
+            9
+          ],
+          "text": "It is noteworthy to mention that aspirin was often reported separately from the remaining antiplatelets, and statins were reported separately in studies from the remaining lipid-lowering agents. Prescribed Medication(s) Antiplatelet (%) Aspirin (%) Lipid-lowering agents (%) Statin (%) β-Blocker (%) Oral anticoagulant Antihypertensive Men Women Men Women Men Women Men Women Men Women Men Women Men Women 84* 76* 81* 73* 53* 47* 51* 45* - - - - 57.4* 53.4* 7.9 7.6 69.1 67.5 69.1 67.5 78.1* 80.2* 7.9 7.6 78.1 80.2 46.02* 32.08* 46.02* 32.08* - - 79.4* 61.2* 52.3* 41.1* - - 34.8 30.1 Leening et al., 2018 - - - - - - 8.2 9.9 26.5 - - 26.5 Mariani et al., 2013 71.9 64.6 95.1 94.3 - - 89.6* 84.7* 86.8* 81.2* - - 9.8 12.4 Millett et al., 2018 - - - - 14.2 8.8 - - - - - - 15.6 12.3 Nørgaard et al., 2015 - - - - 35.9 32.3 - - - - - - 37.7 Peters et al., 2018 61.7* 54.5* - - 10.7* 9.2* 14* 12* 81.2 79.5 - - - - Rachamin et al.,",
+          "expanded_text": "It is noteworthy to mention that aspirin was often reported separately from the remaining antiplatelets, and statins were reported separately in studies from the remaining lipid-lowering agents. Prescribed Medication(s) Antiplatelet (%) Aspirin (%) Lipid-lowering agents (%) Statin (%) β-Blocker (%) Oral anticoagulant Antihypertensive Men Women Men Women Men Women Men Women Men Women Men Women Men Women 84* 76* 81* 73* 53* 47* 51* 45* - - - - 57.4* 53.4* 7.9 7.6 69.1 67.5 69.1 67.5 78.1* 80.2* 7.9 7.6 78.1 80.2 46.02* 32.08* 46.02* 32.08* - - 79.4* 61.2* 52.3* 41.1* - - 34.8 30.1 Leening et al., 2018 - - - - - - 8.2 9.9 26.5 - - 26.5 Mariani et al., 2013 71.9 64.6 95.1 94.3 - - 89.6* 84.7* 86.8* 81.2* - - 9.8 12.4 Millett et al., 2018 - - - - 14.2 8.8 - - - - - - 15.6 12.3 Nørgaard et al., 2015 - - - - 35.9 32.3 - - - - - - 37.7 Peters et al., 2018 61.7* 54.5* - - 10.7* 9.2* 14* 12* 81.2 79.5 - - - - Rachamin et al.,"
+        }
+      ]
+    },
+    {
+      "question": "What does the slope of phase 4 depolarization in the SA node control?",
+      "keywords": [
+        "phase 4",
+        "SA node",
+        "heart rate",
+        "slope"
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::114",
+          "dense_score": 0.72,
+          "rerank_score": 0.983,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            85
+          ],
+          "text": "- T-type (transient) Ca channels then open once the membrane potential becomes more positive, allowing Ca influx to contribute to depolarization. As the pacemaker cell approaches threshold, L-type (long-lasting) Ca channels begin to open, which further increases Ca influx. - Accounts for automaticity of SA and AV nodes. - The slope of phase 4 in the SA node determines HR. - ACh/adenosine ↓ the rate of diastolic depolarization and ↓ HR, while ↑ catecholamines ↑ depolarization and ↑ HR. Sympathetic stimulation ↑ the chance that If channels are open and thus ↑ HR.",
+          "expanded_text": "- T-type (transient) Ca channels then open once the membrane potential becomes more positive, allowing Ca influx to contribute to depolarization. As the pacemaker cell approaches threshold, L-type (long-lasting) Ca channels begin to open, which further increases Ca influx. - Accounts for automaticity of SA and AV nodes. - The slope of phase 4 in the SA node determines HR. (heart rate) - ACh/adenosine ↓ the rate of diastolic depolarization and ↓ HR, (heart rate) while ↑ catecholamines ↑ depolarization and ↑ HR. (heart rate) Sympathetic stimulation ↑ the chance that If channels are open and thus ↑ HR. (heart rate)"
+        },
+        {
+          "rank": 2,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::113",
+          "dense_score": 0.6804,
+          "rerank_score": 0.4897,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            84,
+            85
+          ],
+          "text": "- During this period, a second action potential cannot be generated , no matter how strong the stimulus. - It begins at threshold and continues until the cell has almost completely repolarized. ▪ Occurs in the SA and AV nodes. ▪ Key differences from the ventricular action potential include: A. Phase 0: - Upstroke. potential of these cells. Pacemaker action potential - Results in a slow conduction velocity that is used by the AV node to prolong transmission from the atria to ventricles. - Phase 0 of the non-pacemaker action potential is mediated by rapid sodium influx, in contrast to the slower calcium-mediated depolarization of pacemaker cells. B. Phases 1 and 2 are absent. C. Phase 3: - Inactivation of the Ca channels and ↑ activation of K channels → ↑ K efflux. D. Phase 4: - Slow spontaneous diastolic depolarization due to If (funny current). - If channels responsible for a slow, mixed Na/K inward current; different from INa in phase 0 of ventricular action potential.",
+          "expanded_text": "- During this period, a second action potential cannot be generated , no matter how strong the stimulus. - It begins at threshold and continues until the cell has almost completely repolarized. ▪ Occurs in the SA and AV nodes. ▪ Key differences from the ventricular action potential include: A. Phase 0: - Upstroke. potential of these cells. Pacemaker action potential - Results in a slow conduction velocity that is used by the AV node to prolong transmission from the atria to ventricles. - Phase 0 of the non-pacemaker action potential is mediated by rapid sodium influx, in contrast to the slower calcium-mediated depolarization of pacemaker cells. B. Phases 1 and 2 are absent. C. Phase 3: - Inactivation of the Ca channels and ↑ activation of K channels → ↑ K efflux. D. Phase 4: - Slow spontaneous diastolic depolarization due to If (funny current). - If channels responsible for a slow, mixed Na/K inward current; different from INa in phase 0 of ventricular action potential."
+        },
+        {
+          "rank": 3,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::117",
+          "dense_score": 0.6738,
+          "rerank_score": 0.2965,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            86
+          ],
+          "text": "▪ Once the membrane potential reaches threshold, the opening of additional calcium channels is triggered and the resulting increase in calcium influx begins phase 0 depolarization. ▪ Verapamil is a calcium channel blocker and class IV antiarrhythmic drug that is useful in the treatment of angina, hypertension, and supraventricular tachyarrhythmias. ▪ By blocking SA and AV node calcium channels, verapamil slows the depolarization that occurs in phase 0 and the latter part of phase 4. ▪ This decreases the rate of SA node firing and slows AV node conduction.",
+          "expanded_text": "▪ Once the membrane potential reaches threshold, the opening of additional calcium channels is triggered and the resulting increase in calcium influx begins phase 0 depolarization. ▪ Verapamil is a calcium channel blocker and class IV antiarrhythmic drug that is useful in the treatment of angina, hypertension, and supraventricular tachyarrhythmias. ▪ By blocking SA and AV node calcium channels, verapamil slows the depolarization that occurs in phase 0 and the latter part of phase 4. ▪ This decreases the rate of SA node firing and slows AV node conduction."
+        },
+        {
+          "rank": 4,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ AV node::108",
+          "dense_score": 0.744,
+          "rerank_score": 0.1773,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ AV node:",
+          "page_numbers": [
+            81,
+            82
+          ],
+          "text": "The SA node cells have the property of automaticity, or pacemaker activity. Cardiac conduction system ▪ SA node depolarization delivers an electrical impulse to the surrounding atrial myocardium, which carries the action potential to the atrioventricular (AV) node. ▪ The action potential is then delayed by the AV node in order to allow the ventricles to completely fill with blood during diastole. ▪ From the AV node, the action potential enters the His-Purkinje system. ▪ Impulses travel rapidly through the Purkinje fibers.",
+          "expanded_text": "The SA node cells have the property of automaticity, or pacemaker activity. Cardiac conduction system ▪ SA node depolarization delivers an electrical impulse to the surrounding atrial myocardium, which carries the action potential to the atrioventricular (AV) node. ▪ The action potential is then delayed by the AV node in order to allow the ventricles to completely fill with blood during diastole. ▪ From the AV node, the action potential enters the His-Purkinje system. ▪ Impulses travel rapidly through the Purkinje fibers."
+        },
+        {
+          "rank": 5,
+          "chunk_id": "4.-elhusseinys cardiovascular-system.pdf:▪ Effective refractory period::116",
+          "dense_score": 0.6855,
+          "rerank_score": 0.0242,
+          "source_file": "4.-ELHusseinys Cardiovascular-System.pdf",
+          "section_title": "▪ Effective refractory period:",
+          "page_numbers": [
+            86
+          ],
+          "text": "2. The below tracing demonstrates the typical action potential of cardiac pacemaker cells, which are ▪ These tissues undergo diastolic depolarization during phase 4 due to a slow, inward sodium current. ▪ During the latter parts of phase 4, diastolic depolarization is augmented by transient inward calcium currents.",
+          "expanded_text": "2. The below tracing demonstrates the typical action potential of cardiac pacemaker cells, which are ▪ These tissues undergo diastolic depolarization during phase 4 due to a slow, inward sodium current. ▪ During the latter parts of phase 4, diastolic depolarization is augmented by transient inward calcium currents."
+        }
+      ]
+    }
+  ]
+}

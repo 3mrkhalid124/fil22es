@@ -1,0 +1,49 @@
+# Medical RAG — central configuration.
+# Every magic number and model choice from the notebook lives here.
+
+paths:
+  data_dir: data            # drop your additional PDFs here
+  output_dir: output        # processed_semantic_chunks.json, eval results
+  cache_dir: cache          # embeddings.npz checkpoint
+
+preprocessing:
+  remove_front_matter: true
+  max_front_scan_ratio: 0.35
+  header_footer_repeat_ratio: 0.12
+  min_structural_chars: 250
+  min_section_content: 300
+  max_section_group_chars: 1200
+  tiny_chunk_char_limit: 250
+  tiny_chunk_word_limit: 40
+  min_chunk_chars: 250
+  large_chunk_chars: 3000
+  ideal_min_chars: 250
+  ideal_max_chars: 1800
+
+chunking:
+  semantic_breakpoint_type: percentile
+  semantic_percentile: 60.0        # notebook's selected config
+  add_start_index: true
+  target_max_options: [1000, 1500, 2000]
+  overlap_options: [0.15]
+
+
+embeddings:
+  chunker_embedder: sentence-transformers/all-MiniLM-L6-v2
+  index_embedder: BAAI/bge-base-en-v1.5     # or Groq: set use_groq: true
+  reranker_model: BAAI/bge-reranker-base    # swapped in round 9
+  device: cpu
+  batch_size: 8
+  normalize_embeddings: true
+  use_groq: false
+  groq_api_key: ""                          # or export GROQ_API_KEY / ~/.groq_key
+  groq_model: nomic-embed-text-v1_5
+
+retrieval:
+  k_values: [5]                             # pinned after round-9 sweep
+  search_types: [similarity]                # similarity won; k=5 = 0.8075
+  rerank_k: 10                              # show 10 results per query
+  mmr_fetch_k_cap: 20
+  mmr_diversity: 0.3
+  relevance_weight: 0.7
+  rerank_weight: 0.3

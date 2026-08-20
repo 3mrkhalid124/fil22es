@@ -1,0 +1,20 @@
+{
+  "search_type": "similarity",
+  "k": 5,
+  "rerank_k": 10,
+  "relevance_rate": 0.85,
+  "average_rerank_score": 0.8949627131223679,
+  "normalized_rerank": 0.7099132396680221,
+  "overall_score": 0.8079739719004067,
+  "all_configurations": {
+    "similarity_k5": {
+      "search_type": "similarity",
+      "k": 5,
+      "rerank_k": 10,
+      "relevance_rate": 0.85,
+      "average_rerank_score": 0.8949627131223679,
+      "normalized_rerank": 0.7099132396680221,
+      "overall_score": 0.8079739719004067
+    }
+  }
+}

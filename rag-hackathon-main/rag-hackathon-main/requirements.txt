@@ -1,0 +1,8 @@
+pypdf>=4.0
+numpy>=1.26
+sentence-transformers>=2.7
+langchain>=0.3
+langchain-experimental>=0.3
+pyyaml>=6.0
+# Optional — only needed if embeddings.use_groq=true in config/config.yaml
+# groq>=0.9

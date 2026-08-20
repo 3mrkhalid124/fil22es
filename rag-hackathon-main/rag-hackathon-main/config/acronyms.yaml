@@ -1,0 +1,6 @@
+# Extend the built-in acronym dictionary here.
+# Format: ACRONYM: full expansion
+# Entries are merged with the defaults in src/enrich.py (user entries win).
+# Example:
+#   TAVI: transcatheter aortic valve implantation
+#   LVEF: left ventricular ejection fraction

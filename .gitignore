@@ -1,0 +1,8 @@
+**/.venv/
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/*.dll
+**/*.npz
+**/.env
+**/qa_logs/
